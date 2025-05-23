@@ -91,7 +91,11 @@
 .leaflet-control.custom-control label {
     font-size: 12px;
 }
-
+#map { height: 80vh; width: 100%; }
+.leaflet-control.custom-control { display: none; }
+.leaflet-control.custom-control.active { display: block; }
+.popup-content { max-height: 96px; overflow-y: auto; }
+.legend-control { background: rgba(255, 255, 255, 0.9); padding: 8px; border-radius: 4px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); }
 /* MOBILE-SPECIFIC: Media Queries untuk Mobile */
 @media screen and (max-width: 768px) {
     /* MOBILE-SPECIFIC: Map */
