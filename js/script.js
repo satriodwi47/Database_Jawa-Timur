@@ -33740,3 +33740,4 @@ facilityLayers.forEach(function (facilityLayer, index) {
         map.fitBounds(bounds);
     }
 });
+}
