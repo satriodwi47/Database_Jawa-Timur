@@ -3050,7 +3050,8 @@ document.addEventListener('DOMContentLoaded', function () {
     }).addTo(map);
 }
     }
-    ]                      
+    ] 
+  };
 // Data GeoJSON untuk fasilitas sampah
 var wasteFacilitiesData = {
     "type": "FeatureCollection",
