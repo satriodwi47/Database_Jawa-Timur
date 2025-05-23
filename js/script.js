@@ -3048,6 +3048,7 @@ document.addEventListener('DOMContentLoaded', function () {
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
+}
 // Data GeoJSON untuk fasilitas sampah
 var wasteFacilitiesData = {
     "type": "FeatureCollection",
@@ -33739,4 +33740,3 @@ facilityLayers.forEach(function (facilityLayer, index) {
         map.fitBounds(bounds);
     }
 });
-}
