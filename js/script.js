@@ -3043,7 +3043,11 @@ var geojsonData = {
         }
     ]
 };
-
+document.addEventListener('DOMContentLoaded', function () {
+    var map = L.map('map').setView([-7.5, 110.0], 8);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
 // Data GeoJSON untuk fasilitas sampah
 var wasteFacilitiesData = {
     "type": "FeatureCollection",
