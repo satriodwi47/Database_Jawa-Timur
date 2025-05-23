@@ -3049,7 +3049,6 @@ document.addEventListener('DOMContentLoaded', function () {
         attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 }
-    }
     ]
 };                        
 // Data GeoJSON untuk fasilitas sampah
