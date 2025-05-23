@@ -33269,7 +33269,6 @@ var wasteFacilitiesData = {
       "coordinates": [111.9641728, -8.091221]
     }
   }
-
     ]
 };
 
