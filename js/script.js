@@ -9185,8 +9185,8 @@ function formatFacilityPopup(properties) {
             <b>Luas Unit Pengelolaan Sampah:</b> ${properties.Luas_Unit !== null ? properties.Luas_Unit + ' ha' : 'Unknown'}<br>
             <b>Kapasitas Sampah Masuk (m3/hari):</b> ${properties.Kapasitas1 !== null ? properties.Kapasitas1 : 'Unknown'}<br>
         `;
-    } else if (properties.Type === 'TPS3R' || properties.Type === 'BSU') {
-        // Untuk TPS3R dan BSU, hanya tampilkan kapasitas jika tersedia
+    } else if (properties.Type === 'TPS3R') {
+        // Untuk TPS3R, hanya tampilkan kapasitas jika tersedia
         if (properties.Kapasitas !== null) {
             popupContent += `
                 <b>Kapasitas (m3/hari):</b> ${properties.Kapasitas}<br>
@@ -9526,8 +9526,8 @@ geojsonLayer.eachLayer(function (layer) {
     }
 });
 
-// Cari di fasilitas sampah (TPA, BSI, TPS3R, BSU)
-var facilityLayers = [tpaLayer, bsiLayer, tps3rLayer, bsuLayer];
+// Cari di fasilitas sampah (TPA, BSI, TPS3R)
+var facilityLayers = [tpaLayer, bsiLayer, tps3rLayer];
 var facilityLayerIds = ['tpaLayer', 'bsiLayer', 'tps3rLayer'];
 
 facilityLayers.forEach(function (facilityLayer, index) {
@@ -9566,7 +9566,6 @@ facilityLayers.forEach(function (facilityLayer, index) {
         document.getElementById('tpaLayer').checked = true;
         document.getElementById('bsiLayer').checked = true;
         document.getElementById('tps3rLayer').checked = true;
-        document.getElementById('bsuLayer').checked = true;
         map.fitBounds(bounds);
     }
 });
