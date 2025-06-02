@@ -9136,6 +9136,24139 @@ var wasteFacilitiesData = {
   ]
 },
 
+                // Data BSU yang disesuaikan
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1221565, -8.1565325]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "PLUMPUNGREJO III",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": null,
+                "Desa": "PLUMPUNGREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3158945, -8.2708505]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "SADAR ALAM JAYA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SANAN KULON",
+                "Desa": "PURWOREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1340793, -8.0688496]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "ABADI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SANANKULON",
+                "Desa": "SUMBER",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9969626, -8.035636]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Tawangrejo Maju",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "BINANGUN",
+                "Desa": "TAWANGREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3207603, -8.0864053]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "KENONGO ASRI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WLINGI",
+                "Desa": "BERU",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4093893, -8.0727845]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "MUGI BERKAH",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KESAMBEN",
+                "Desa": "KEMIRIGEDE",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3264213, -8.0781151]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "WLINGI BAROKA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WLINGI",
+                "Desa": "WLINGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sumberagung. II",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2890705, -8.0600591]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "SEMANDING GANDUSARI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "GANDUSARI",
+                "Desa": "KOTES",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.199654, -8.0753628]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "darwis melati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "garum",
+                "Desa": "pojok",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.33284, -8.20223]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Kusuma",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "BINANGUN",
+                "Desa": "REJOSO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3266831, -8.0878663]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "SAMANDIMAN",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WLINGI",
+                "Desa": "TANGKIL",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3207603, -8.0864053]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "KAMPUNG BARU ASRI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Wlingi",
+                "Desa": "BERU",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Koripan. I",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Koripan. II",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "KIARA NASA 2",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.292324, -8.0780411]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Idaman",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KANIGORO",
+                "Desa": "Kanigoro",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1132142, -8.0061188]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "GIAT BERSAMA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PONGGOK",
+                "Desa": "BACEM",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1519636, -8.0729524]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "GARUDA WIJAYA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SANAN KULON",
+                "Desa": "SUMBERJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4470275, -8.0484883]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Gading Asri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3207603, -8.0864053]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "BENING ASRI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WLINGI",
+                "Desa": "BERU",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3963638, -8.1101209]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "SUMBER REJEKI TAPAKREJO",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KESAMBEN",
+                "Desa": "TAPAKREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Pakel. I",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1534539, -8.1355458]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "SUMBER BERKAH",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SANAN KULON",
+                "Desa": "PLOSOARANG",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1191757, -8.010895]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "RMB",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PONGGOK",
+                "Desa": "PONGGOK",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4470275, -8.0484883]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Gading Asri.A",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3264213, -8.0781151]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "JAVA ROSE",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WLINGI",
+                "Desa": "WLINGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3207603, -8.0864053]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "KAMPUNG BARU ASRI II",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Wlingi",
+                "Desa": "BERU",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Pakel. II",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1191757, -8.010895]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "JAGOAN BERSERI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PONGGOK",
+                "Desa": "PONGGOK",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.199654, -8.0753628]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "mapan",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "garum",
+                "Desa": "POJOK",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4470275, -8.0484883]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Ampel gading",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3207603, -8.0864053]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "NGAMBAK ASRI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WLINGI",
+                "Desa": "BERU",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9626823, -8.0081332]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "keluarga harapan",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KADEMANGAN",
+                "Desa": "jaten",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.33284, -8.20223]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "KUSUMA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "BINANGUN",
+                "Desa": "REJOSO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4088559, -8.0921136]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "MANGKU REJEKI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KESAMBEN",
+                "Desa": "TAPAKREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Pakel. III",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "MAHONI KALINGGA 1",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.219733, -8.149137]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Kupas",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KANIGORO",
+                "Desa": "Kanigoro",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.0744643, -8.0364088]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "BERKAH",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PONGGOK",
+                "Desa": "DADAPLANGU",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1534539, -8.1355458]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "SELAMAT PAGI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SANAN KULON",
+                "Desa": "PLOSOARANG",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Kiara Nasa 1",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Pakel. IV",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.092349, -8.0251788]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "PELAJAR NU",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PONGGOK",
+                "Desa": "KEBONDUREN",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Kiara Nasa 2",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3207603, -8.0864053]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "BERU ASRI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WLINGI",
+                "Desa": "BERU",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3264213, -8.0781151]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "GEMA RIPAH",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WLINGI",
+                "Desa": "WLINGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3207603, -8.0864053]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "KROMASAN ASRI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Wlingi",
+                "Desa": "BERU",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Pakel. VI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "MAHONI KALINGGA 2",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1609056, -8.0238812]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "MULIA ABADI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PONGGOK",
+                "Desa": "KARANGBENDO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.199654, -8.0753628]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "ronggo warsito",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "garum",
+                "Desa": "POJOK",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Pule Kendedes I",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1534539, -8.1483443]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "syariah kh",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KADEMANGAN",
+                "Desa": "rejowinangun",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "BERINGIN RINDANG II",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3546395, -8.1636495]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "REDJEKI SAMPAH",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KESAMBEN",
+                "Desa": "JUGO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Pakel. V",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2200091, -8.1308657]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Teratai Berseri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KANIGORO",
+                "Desa": "Satreyan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1489829, -8.0041127]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "CANDI BERKAH",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PONGGOK",
+                "Desa": "CANDIREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2116305, -8.0505534]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "HIDUP MAJU",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SUTOJAYAN",
+                "Desa": "JEGU",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4470275, -8.0484883]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Pule Kendedes II",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3264213, -8.0781151]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "GUYUB RUKUN",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WLINGI",
+                "Desa": "WLINGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Semanding. I",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "PRING GADING 1",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9731155, -8.0216196]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "TP PKK DESA SALAM",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WONODADI",
+                "Desa": "SALAM",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3263259, -8.1461034]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "griya berseri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOPURO",
+                "Desa": "ploso",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Pule Kendedes III",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "CEMARA SAKTI 1",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPEL GADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2422122, -8.1734862]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "LANCAR JAYA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SUTOJAYAN",
+                "Desa": "SUKOREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3264213, -8.0781151]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "TUNGGUL LESTARI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Wlingi",
+                "Desa": "WLINGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+    {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Semanding.II",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3069532, -8.1152571]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "JAMBEWANGI 2",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOPURO",
+                "Desa": "jambewangi",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2160114, -8.181197]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "SUMBER REJEKI (SUTOJAYAN)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SUTOJAYAN",
+                "Desa": "SUTOJAYAN",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "BERINGIN RINDANG III",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1534539, -8.1483443]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "rejowinangun",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KADEMANGAN",
+                "Desa": "rejowinangun",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "BERINGIN RINDANG I",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2965216, -8.1120204]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "BERSAMA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "TALUN",
+                "Desa": "SRAGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2247954, -8.1695869]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "MAJU MAKMUR",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SUTOJAYAN",
+                "Desa": "JINGGLONG",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2175377, -8.1050283]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Semanding. III",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Bangle",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "PRING GADING 2",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2200091, -8.1308657]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Rejeki Barokah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KANIGORO",
+                "Desa": "Satreyan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2771485, -8.0403025]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "BECIK RESIK",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PANGGUNGREJO",
+                "Desa": "SUMBERAGUNG",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3397377, -8.3002029]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "PERMATA BUNDA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WATES",
+                "Desa": "RINGINREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1519636, -8.0729524]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "SUMBER REZEKI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KADEMANGAN",
+                "Desa": "SUMBERJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2831095, -8.1166235]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "TUNAS JAYA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "TALUN",
+                "Desa": "DUREN",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3546395, -8.0358987]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "BERKAH BERSERI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WLINGI",
+                "Desa": "WLINGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1877315, -8.1220754]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Argabon",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Gaprang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1370601, -7.9843468]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "MAS TAM",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PONGGOK",
+                "Desa": "SIDOREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3635806, -8.3090527]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "KARANGAN BERIMAN",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "WATES",
+                "Desa": "TUGUREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2056153, -8.1466408]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "MANDIRI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "TALUN",
+                "Desa": "SRAGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.239637, -8.1969134]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "BACEM BERSERI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SUTOJAYAN",
+                "Desa": "BACEM",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.0386945, -8.0384153]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "JOMO JOYO",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KADEMANGAN",
+                "Desa": "SUMBERJATI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2056153, -8.1466408]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Kampung Markisa",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Kanigoro",
+                "Desa": "Karangsono",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4634182, -8.005465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "PRING GADING 3",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SELOREJO",
+                "Desa": "AMPELGADING",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.0988758, -8.0599278]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "GUYUB RESIK",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PONGGOK",
+                "Desa": "KAWEDUSAN",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1815447, -8.1880338]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "ARUM ABADI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "SUTOJAYAN",
+                "Desa": "PANDANARUM",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2771485, -8.0403025]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "bacik resik",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PANGGUNGREJO",
+                "Desa": "sumberagung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2965216, -8.1120204]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Moro Seneng",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "TALUN",
+                "Desa": "SRAGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2965216, -8.1120204]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sumber Makmur",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "TALUN",
+                "Desa": "SRAGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.0327354, -8.0946388]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "AL HIKMAH",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "Srengat",
+                "Desa": "Karanggayam",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.268207, -8.2531341]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "SBC SOSIALITY",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "PANGGUNGREJO",
+                "Desa": "PANGGUNGREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1221565, -8.1565325]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "PLUMPUNGREJO I",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "KADEMANGAN",
+                "Desa": "PLUMPUNGREJO",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3252881, -8.0796036]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sumber Rejeki",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kab. Blitar",
+                "Kecamatan": "TALUN",
+                "Desa": "SRAGI",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+          }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8727647, -7.1507742]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barata",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Kauman",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.767362, -7.245741]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit MANFAAT (Ngasem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Ngasem",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9281895, -7.2337598]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Margo Berseri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Margomulyo",
+                "Desa": "Margomulyo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.772126, -7.246638]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sejahtera Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Sendangharjo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.7836024, -7.1718015]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit LANGGENG JAYA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Wadang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.766475, -7.23765]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sejahtera (Dukoh Kidul Ngasem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Dukohkidul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.140978, -7.106356]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Amanah (Kalisari Baureno)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Kalisari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9811042, -7.3425689]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sri Rejeki (Bareng-Sugihwaras)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": null,
+                "Desa": null,
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.772236, -7.278976]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Al Barokah (Butoh Ngasem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Butoh",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.842852, -7.251566]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit An Nur",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Dander",
+                "Desa": "Dander",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.675173, -7.18839]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Matahari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Purwosari",
+                "Desa": "Pojok",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.7705719, -7.2749145]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mandiri (Kolong Ngasem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Kolong",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.662587, -7.19849]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bougenvile (Gapluk Purwosari)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Purwosari",
+                "Desa": "Gapluk",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9132182, -7.1845122]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sukowati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Sukowati",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.765825, -7.256733]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah (Ngadiluwih Ngasem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Ngadiluwih",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.869363, -7.216875]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit BSM",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Dander",
+                "Desa": "Mojoranu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.023366, -7.083806]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Adzka",
+                "Description": "Bank Sampah Unit dikelola oleh Pemda",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Semambung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.687137, -7.202006]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sejahtera (Punggur Purwosari)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Purwosari",
+                "Desa": "Punggur",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.857468, -7.152984]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Makmur (Ngablak Dander)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Dander",
+                "Desa": "Ngablak",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.753786, -7.17852]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Maju",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Jelu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.68523, -7.214421]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Kenanga",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Purwosari",
+                "Desa": "Tinumpuk",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.857468, -7.205443]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sumber Barokah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Dander",
+                "Desa": "Simodikaran",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.7668611, -7.2452217]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Manfaat",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Ngasem",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.765, -7.218112]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bersinar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Ngantru",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.69684, -7.20792]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Beres",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Purwosari",
+                "Desa": "Tlatah",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.7667, -7.249846]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Maedahi",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Sambong",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.887547, -7.161581]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit RESING",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.978375, -7.320619]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Nggalan Berseri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Panunggalan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.988194, -7.139524]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Green Clean",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Cangaan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.763262, -7.20052]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Ngudi Berkah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Bareng",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.928104, -7.174052]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit NGUDIGUNO",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Bakalan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.970923, -7.302461]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Teratai Bersih",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Trate",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.011923, -7.314656]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Melati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Setren",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.000537, -7.196204]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Budi Karya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sumberrejo",
+                "Desa": "Pekuwon",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.763989, -7.291859]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Apik Resik",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Trenggulunan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.958928, -7.320924]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit JAYA MAKMUR",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Alasgung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.0161868, -7.2112865]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sumber Rejeki",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sumberrejo",
+                "Desa": "Sendangagung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.885016, -7.20738]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Anyelir",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Padangmentoyo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.584792, -7.279193]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sumber Rejeki (Jatimulyo Tambakrejo)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Tambakrejo",
+                "Desa": "Jatimulyo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.059788, -7.075819]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mulia Insani",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Gedongarum",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.894417, -7.226306]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Amanah (Kumpulrejo)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Kumpulrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.60498, -7.252896]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Citra Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Tambakrejo",
+                "Desa": "Jawik",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.07256, -7.07097]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Safa KDP",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Kedungprimpen",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.938562, -7.17919]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Armu Jaya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Semenpinggir",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.95486, -7.294858]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit SEKAR ARUM",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Sugihwaras",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.932835, -7.198546]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit MANDIRI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Kapas",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.587292, -7.27613]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sukorejo Produktif",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Tambakrejo",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.934344, -7.163665]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Omah Ijo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Bogo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.041252, -7.0760882]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Becik Resik",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Pilang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.140222, -7.125707]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Anggrek",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Gunungsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.018126, -7.142586]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Luweh Barokah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Sedeng",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.860487, -7.162343]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mawar (Tulungrejo)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Trucuk",
+                "Desa": "Tulungrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.959352, -7.192511]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit BAROKAH (Balenrejo)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Balenrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.715866, -7.171866]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit SEGORO ARTO",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Gayam",
+                "Desa": "Gayam",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.0461808, -7.1158085]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sidarsih",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Simorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.812828, -7.129371]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah (Kandangan)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Trucuk",
+                "Desa": "Kandangan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.623202, -7.180946]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah (Sonorejo)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Padangan",
+                "Desa": "Sonorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.041733, -7.159704]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mekar Sari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Sroyo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.826743, -7.113063]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah (Pagerwesi)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Trucuk",
+                "Desa": "Pagerwesi",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.046795, -7.132852]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit NUSA INDAH BUNGUR",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Bungur",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.873712, -7.132134]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Srikandi (Sranak-Trucuk)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Trucuk",
+                "Desa": "Sranak",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.97417, -7.20828]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit ANNISA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Bulu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.804699, -7.112555]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Alkhoir",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Trucuk",
+                "Desa": "Sumbang Timun",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8630585, -7.184656]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sumbertlaseh",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Dander",
+                "Desa": "Sumbertlaseh",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.053429, -7.077738]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Geprosik",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Gedongarum",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.5924, -7.1742]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Srikandi (Geger-Kedungadem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kedungadem",
+                "Desa": "Geger",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.001438, -7.155526]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Berkah Qomamah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Tejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.01666, -7.09494]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit SAFANA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Kanor",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9812531, -7.2743917]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bougenville (Kedungrejo-Kedungadem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kedungadem",
+                "Desa": "Kedungrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.991315, -7.136647]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Rizquna",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Kabalan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.938184, -7.215557]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit ANUGERAH",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Ngadiluhur",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.121498, -7.119494]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bumiayu Resik",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Bumiayu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.98577, -7.151833]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit BARIK LANA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Sarangan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.0565795, -7.3201866]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mawar (Mlideg Kedungadem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kedungadem",
+                "Desa": "Mlideg",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9478185, -7.1776039]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah (Kemamang)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Kemamang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.00783, -7.13859]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit LESTARI (Simbatan)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Simbatan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9918439, -7.2521893]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Preety",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kedungadem",
+                "Desa": "Ngrandu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.050872, -7.138084]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah (Drajat)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Drajat",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.009875, -7.113691]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Makmur (Tambahrejo)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kanor",
+                "Desa": "Tambahrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.0059052, -7.2696673]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Istiqomah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kedungadem",
+                "Desa": "Tlogoagung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.096034, -7.090228]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah (Kadungrejo)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Kadungrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.140222, -7.125707]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Anggrek",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Gunung Sari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.0625411, -7.3552998]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Al Barokah (Tondomulo Kedungadem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kedungadem",
+                "Desa": "Tondomulo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.06389, -7.150956]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah (Ngemplak)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Ngemplak",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9911, -7.24054]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sri Rejeki (Kedungadem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kedungadem",
+                "Desa": "Balongcabe",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.89535, -7.176889]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit BERKAH AAM LESTARI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Kalianyar",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.12762, -7.17591]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bunda",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kepohbaru",
+                "Desa": "Jipo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.114381, -7.126914]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Anugerah (Trojalu)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Trojalu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.07619, -7.32157]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Yasmin",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kedungadem",
+                "Desa": "Kesongo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.758483, -7.168018]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit AMANAH (Ngasem)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Ngasem",
+                "Desa": "Jampet",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1340793, -7.1546305]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Al Barokah (Karangan Kepohbaru)",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kepohbaru",
+                "Desa": "Karangan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.010072, -7.27768]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mandiri FNU",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kedungadem",
+                "Desa": "Megale",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.896799, -7.152124]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit SATU HATI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Ngrowo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8939374, -7.1821712]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bojonegoro",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Kalianyar",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.913899, -7.138479]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit MANGGA LESTARI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Mulyoagung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.871918, -7.173059]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit GUYUP RUKUN",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Pacul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9225109, -7.18744]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Payung Sejahtera",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Mojodeso",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.848029, -7.248291]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit ANNUR",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Sugihwaras",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.822849, -7.244178]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Serba Guna",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Dander",
+                "Desa": "Grogolan Ngunut",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8738181, -7.1654406]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mawar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Sumbang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8907482, -7.1625861]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sukorejo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.963149, -7.176158]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit DELIMA",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Lengkong",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9019458, -7.143435]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Campurejo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Campurejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.89244, -7.152938]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Kadipaten",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Kadipaten",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+         {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8956441, -7.1398255]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Banjarejo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Banjarejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.896799, -7.152124]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Satu Hati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Ngrowo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8727647, -7.1507742]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barata",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Kauman",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8939374, -7.1821712]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bojonegoro",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Kalianyar",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.913899, -7.138479]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mangga Lestari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Mulyoagung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9132182, -7.1845122]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sukowati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Sukowati",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.871918, -7.173059]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Guyup Rukun",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Pacul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9225109, -7.18744]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Payung Sejahtera",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Mojodeso",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.887547, -7.161581]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Resing",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.928104, -7.174052]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Ngudiguno",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Bakalan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.958928, -7.320924]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Jaya Makmur",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Alasgung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.95486, -7.294858]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sekar Arum",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Sugihwaras",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.932835, -7.198546]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Kapas",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.848029, -7.248291]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Annur",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Sugihwaras",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.959352, -7.192511]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah (Balenrejo)",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Balenrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.822849, -7.244178]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Serba Guna",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Dander",
+                "Desa": "Grogolan Ngunut",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.97417, -7.20828]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Annisa",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Bulu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8630585, -7.184656]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sumbertlaseh",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Dander",
+                "Desa": "Sumbertlaseh",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.938184, -7.215557]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Anugerah",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Ngadiluhur",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8738181, -7.1654406]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mawar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Sumbang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.121498, -7.119494]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bumiayu Resik",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Bumiayu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8907482, -7.1625861]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sukorejo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.963149, -7.176158]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Delima",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Lengkong",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.140222, -7.125707]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Anggrek",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Gunung Sari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9019458, -7.143435]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Campurejo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Campurejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.89244, -7.152938]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Kadipaten",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Kadipaten",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+         {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8956441, -7.1398255]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Banjarejo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Banjarejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.896799, -7.152124]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Satu Hati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Ngrowo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8727647, -7.1507742]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barata",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Kauman",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8939374, -7.1821712]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bojonegoro",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Kalianyar",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.913899, -7.138479]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mangga Lestari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Mulyoagung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9132182, -7.1845122]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sukowati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Sukowati",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.871918, -7.173059]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Guyup Rukun",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Pacul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9225109, -7.18744]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Payung Sejahtera",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Mojodeso",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.887547, -7.161581]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Resing",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.928104, -7.174052]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Ngudiguno",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Bakalan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.958928, -7.320924]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Jaya Makmur",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Alasgung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.95486, -7.294858]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sekar Arum",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Sugihwaras",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.932835, -7.198546]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Kapas",
+                "Desa": "Kapas",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.848029, -7.248291]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Annur",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Sugihwaras",
+                "Desa": "Sugihwaras",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.959352, -7.192511]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah (Balenrejo)",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Balenrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.822849, -7.244178]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Serba Guna",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Dander",
+                "Desa": "Grogolan Ngunut",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.97417, -7.20828]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Annisa",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Bulu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8630585, -7.184656]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sumbertlaseh",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Dander",
+                "Desa": "Sumbertlaseh",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.938184, -7.215557]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Anugerah",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Ngadiluhur",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8738181, -7.1654406]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mawar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Sumbang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.121498, -7.119494]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bumiayu Resik",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Bumiayu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.8907482, -7.1625861]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sukorejo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.963149, -7.176158]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Delima",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Balen",
+                "Desa": "Lengkong",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.140222, -7.125707]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Anggrek",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Baureno",
+                "Desa": "Gunung Sari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.9019458, -7.143435]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Campurejo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Campurejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.89244, -7.152938]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Kadipaten",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Bojonegoro",
+                "Kecamatan": "Bojonegoro",
+                "Desa": "Kadipaten",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+           }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.97, -7.971]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Ceria Usaha",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Sumber Wringin",
+                "Desa": "Sukosari Kidul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.82, -7.915]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Anisa Bersinar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Bondowoso",
+                "Desa": "Dabasah",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.814, -7.924]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Insan Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Bondowoso",
+                "Desa": "Badean",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.828, -7.908]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Cemara",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Blindungan",
+                "Desa": "28/VII",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.88, -7.973]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Al Qurtuby",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Pujer",
+                "Desa": "Pujer",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.8093931, -7.9290528]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Al Ikhlas",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Bondowoso",
+                "Desa": "Nangkaan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.8164599, -7.918583]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Ceria Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Bondowoso",
+                "Desa": "Badean",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.8659097, -7.9155453]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Ceria Tangsil",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Tenggarang",
+                "Desa": "Tangsil Kulon",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.986358, -7.8288752]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Bunga Sampah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Botolinggo",
+                "Desa": "Lumutan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.8184, -7.9153]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Al Barokah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Bondowoso",
+                "Desa": "Badean",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.8019562, -7.9408668]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Kasih Ibu",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Bondowoso",
+                "Desa": "Kembang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.8151651, -7.9073713]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mandiri Malabar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Bondowoso",
+                "Desa": "Kotakuloon",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.8383119, -7.9147265]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Rantai Mas",
+                "Description": "Bank Sampah Unit dikelola oleh Lembaga Masyarakat (KSM, Koperasi, dll)",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Bondowoso",
+                "Desa": "Kademangan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.816, -7.928]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Seruni",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Bondowoso",
+                "Desa": "Tamansari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.821, -7.9221]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Melati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Bondowoso",
+                "Desa": "Dabasah",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.825, -8.025]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Slankker",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Bondowoso",
+                "Kecamatan": "Tamanan",
+                "Desa": "Tamanan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+         {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.645211, -7.149252]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Pojok Ceria",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Gresik",
+                "Desa": "Tlogopojok",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.655737, -7.1827434]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Manfaat Lingkungan",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Gresik",
+                "Desa": "Kramatinggil",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3992757, -7.3167609]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sodakoh Sampah Berseri",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Balongpanggang",
+                "Desa": "Jombangdelik",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6336451, -7.1866315]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Centil",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Kebomas",
+                "Desa": "Ngargosari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6019364, -7.14366]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Darlink Senyum",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Manyar",
+                "Desa": "Suci",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.596878, -7.1243505]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Peganden",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Manyar",
+                "Desa": "Peganden",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3754141, -7.3249879]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah 05",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Balongpanggang",
+                "Desa": "Jombangdelik",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.3884064, -7.3220925]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Flamboyan 02",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Balongpanggang",
+                "Desa": "Jombangdelik",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6207299, -7.1594196]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah Jaya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Kebomas",
+                "Desa": "Randuagung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.616291, -7.1574524]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Randu Samudra",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Kebomas",
+                "Desa": "Randuagung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6480375, -7.1761195]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Si Cantik Cerdas",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Gresik",
+                "Desa": "Sidokumpul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4492728, -7.2659178]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Secerah Pagi",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Balongpanggang",
+                "Desa": "Kedungpring",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6457815, -7.1878955]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Tirta Ceria",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Kebomas",
+                "Desa": "Gending",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6668614, -7.1830795]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit RWS",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Gresik",
+                "Desa": "Sidorukun",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.652917, -7.1538378]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bunga Matahari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Gresik",
+                "Desa": "Karangpoh",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6364585, -7.1706621]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bersama",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Gresik",
+                "Desa": "Sukorame",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6522009, -7.152869]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Pasar Kota Gresik",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Gresik",
+                "Desa": "Karangpoh",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6214866, -7.131725]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Meduran Bersatu",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Manyar",
+                "Desa": "Roomo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4761115, -6.914498]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mentari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Panceng",
+                "Desa": "Prupuh",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6168852, -7.1602728]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Melati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Kebomas",
+                "Desa": "Randuagung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5975167, -7.12482]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Ram 91",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Manyar",
+                "Desa": "Peganden",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4903865, -6.9571541]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Kemuning",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Panceng",
+                "Desa": "Wotan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6094964, -7.1446909]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Manggis",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Manyar",
+                "Desa": "Pongangan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.617459, -7.1368059]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Mekar Jaya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Gresik",
+                "Desa": "Sidorukun",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5760721, -7.0558123]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Wiwontubi",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Bungah",
+                "Desa": "Bungah",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5274893, -6.9639331]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bersih Berseri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Ujungpangkah",
+                "Desa": "Bolo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.410881, -7.314031]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Wijaya Kusuma",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Balongpanggang",
+                "Desa": "Brangkal",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.583622, -7.1811605]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bansalim Barokah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Cerme",
+                "Desa": "Banjarsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6385904, -7.1744406]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Anggrek 1",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Kebomas",
+                "Desa": "Ngargosari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6430656, -7.1636863]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Bogor Doyong Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Gresik",
+                "Desa": "Tlogopatut",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.616462, -7.1798425]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Gerlisa",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Kebomas",
+                "Desa": "Sekarkurung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4302141, -7.2662465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Sumber Makmur 03",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Balongpanggang",
+                "Desa": "Kedungsumber",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.521225, -7.248383]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Srikandi",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Cerme",
+                "Desa": "Dooro",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5721881, -7.1550291]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Guyub Rukun 5",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Cerme",
+                "Desa": "Betiting",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4738486, -7.2431681]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Harapan 1",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Benjeng",
+                "Desa": "Karangankidul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6444475, -7.1594804]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Barokah 6",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Gresik",
+                "Desa": "Karangpoh",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.6335262, -7.1654542]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Unit Kartar Kerapu",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Gresik",
+                "Kecamatan": "Kebomas",
+                "Desa": "Kebomas",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.6005067, -8.339685]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Ambulu Sejahtera",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jember",
+                "Kecamatan": "Ambulu",
+                "Desa": "Tutul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.420615, -8.22295]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Republik Sejahtera Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jember",
+                "Kecamatan": "Umbulsari",
+                "Desa": "Mundurejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.7091021, -8.2007423]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sahabat Ibu",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jember",
+                "Kecamatan": "Sumbersari",
+                "Desa": "Taman Gading",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.6145128, -8.060992]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Larahan Makmur",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jember",
+                "Kecamatan": "Panti",
+                "Desa": "Suci",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.5190718, -8.290051]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Karya Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jember",
+                "Kecamatan": "Balung",
+                "Desa": "Balung Kulon",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2310352, -7.5593137]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Karya Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Jombatan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.228691, -7.5525427]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sambong Permai RT 04",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Sambongdukuh",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2230371, -7.454168]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Anugrah Rejoagung",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Ngoro",
+                "Desa": "Rejoagung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2270635, -7.5511268]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah MAN 1 Jombang",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Jombatan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.22967, -7.5322665]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sambong Permai RT 07",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Sambongdukuh",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2418053, -7.543753]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Melati Kepanjen",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Kepanjen",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2431851, -7.5340404]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sekar Srikandi",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Kepanjen",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2925068, -7.6433539]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Mak Karman",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Mojowarno",
+                "Desa": "Sidoluwih",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2263304, -7.5544972]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah SMKN 3 Jombang",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Sengon",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.228691, -7.5525427]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah SMKN 1 Jombang",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Jombatan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2302061, -7.557769]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Jaya Abadi",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Jombatan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2360067, -7.5499674]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah BPKAD",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Kepanjen",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2152988, -7.5427313]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Bidang TL DLH",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Tunggorono",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2150549, -7.5428195]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah DLH Dharma Wanita",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Tunggorono",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2373751, -7.5474902]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Berkah Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Kepanjen",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2404408, -7.5935325]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Kurnia Asri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Denanyar",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2331577, -7.5414232]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Karya Ibu",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Kepanjen",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2291006, -7.5450838]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Srikandi Pulo Lor",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Pulo Lor",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2382877, -7.5501326]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah RSUD Jombang",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Kepanjen",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2203114, -7.5499087]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Perum Firdaus",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Sengon",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.222353, -7.5485454]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sentral Sengon",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Sengon",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.2373284, -7.5508245]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Dinas Kesehatan",
+                "Description": "Bank Sampah Unit dikelola oleh LSM",
+                "Kabupaten": "Jombang",
+                "Kecamatan": "Jombang",
+                "Desa": "Kepanjen",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.091937, -7.718858]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Barokah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kediri",
+                "Kecamatan": "Papar",
+                "Desa": "Dawuhan Kidul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.070348, -7.762794]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Mentari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kediri",
+                "Kecamatan": "Pagu",
+                "Desa": "Bendo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.85449, -7.832873]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Asri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kediri",
+                "Kecamatan": "Semen",
+                "Desa": "Puhsarang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.117828, -7.794712]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Berseri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kediri",
+                "Kecamatan": "Gurah",
+                "Desa": "Tambakrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.129734, -7.95952]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Berkah Sentosa",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kediri",
+                "Kecamatan": "Ngancar",
+                "Desa": "Bedali",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.031684, -7.747193]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sembada",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kediri",
+                "Kecamatan": "Gampengrejo",
+                "Desa": "Ngebrak",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.20537, -7.779604]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Maju Bersama",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kediri",
+                "Kecamatan": "Pare",
+                "Desa": "Tertek",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5594157, -7.9013895]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Citra Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Mojorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5274893, -7.8986671]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Lantip Prasaja",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Oro-Oro Ombo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5305118, -7.8503464]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sri Rejeki",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Bulukerto",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5307806, -7.869676]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sumber Rejeki 2",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Sisir",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.521194, -7.800165]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Bersih Berkah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Tulungrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.573678, -7.9100495]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Melati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Dadaprejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5016023, -7.8522618]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Rumah Terampil Aisyiyah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Gunungsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5282739, -7.8990187]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Wanita Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Oro-Oro Ombo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5486245, -7.9079992]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Anyelir 5",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Jeding",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5394091, -7.9183528]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Srikandi",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Tlekung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.4976892, -7.869813]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Arum Dalu",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Songgokerto",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.546859, -7.8963009]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Kenanga 1",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Beji",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5069801, -7.8672892]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Kartini Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Pesanggrahan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5344373, -7.8940063]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sinar Anugrah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Oro-Oro Ombo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5296562, -7.8428976]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Kenanga 2",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Bulukerto",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5394091, -7.8827289]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Arum Melati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Temas",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.519158, -7.84304]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah SPD",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Gunungsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.526693, -7.839153]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Teratai",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Punten",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5008265, -7.8659598]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Flamboyan",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Songgokerto",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5125613, -7.8739341]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Bougenvil",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Pesanggrahan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5374117, -7.8792353]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Wukir Indah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Temas",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.54108, -7.867119]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Pandan Berseri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Pandanrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.539868, -7.857236]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Bina Sejahtera",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Bumiaji",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5156582, -7.838846]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Margi Asih",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Gunungsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5601948, -7.8987478]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Mojo Asri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Mojorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5183863, -7.8682393]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah 2 M Lahor",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Pesanggrahan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5259993, -7.8516908]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Cahaya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Sidomulyo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5330354, -7.8950472]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Krisan Indah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Oro-Oro Ombo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.522561, -7.82791]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Kenanga",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Punten",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5332672, -7.8785095]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Temas Indah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Temas",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5334492, -7.8830648]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Guyub Rukun",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Tulungrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5484085, -7.9130668]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Anggrek",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Tlekung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5296176, -7.8889575]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sekawan",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Oro-Oro Ombo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.562556, -7.860286]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Amanah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Giripurno",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.513464, -7.843349]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Muslimah Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Gunungsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.524799, -7.829696]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Tentreme Ati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Punten",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.539444, -7.8825461]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Temas Bersinar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Temas",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.530212, -7.815006]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Happy Smile",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Tulungrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5228855, -7.8496133]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Surya Gemilang",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Sidomulyo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5330345, -7.8942314]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Panderman",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Oro-Oro Ombo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5239447, -7.8687342]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sakinah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Ngaglik",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5590468, -7.8678478]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Berkah Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Giripurno",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5619981, -7.9026938]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Ibu Bersinar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Pendem",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5452382, -7.8773908]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Membawa Berkah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Temas",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.524795, -7.837112]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Kanti Mulyo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Tulungrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5275928, -7.843989]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sri Rejeki",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Sidomulyo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5328708, -7.8932786]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sumber Rejeki",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Oro-Oro Ombo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5601606, -7.9112277]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Kenanga 2",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Junwatu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5170594, -7.877628]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Cempaka Asri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Ngaglik",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5382471, -7.8788542]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Guyub Rukun",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Temas",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5572887, -7.8868078]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Anugrah Jaya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Torongrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5600802, -7.9015947]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Baratu",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Dadaprejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.533422, -7.817295]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Tri Makmur",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Sumbergondo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.528086, -7.823521]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Karya Sejahtera",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Tulungrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.532598, -7.848791]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Tirtasari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Bulukerto",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5276828, -7.8427034]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah KBC",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Sidomulyo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5902674, -7.89959]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Bunda Sejahtera",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Pendem",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5438069, -7.9015104]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Matahari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Rejoso",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.530721, -7.830678]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Sumbergondo 1",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Sumbergondo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.541539, -7.836981]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Jaya Mandiri 1",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Bulukerto",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5811277, -7.900723]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Anggrek",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Junrejo",
+                "Desa": "Pendem",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.509133, -7.8679461]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Emak Emak",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Oro-Oro Ombo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5096093, -7.853882]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Arum Sari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Sumberejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5125893, -7.7952474]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Gebetan",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Tulungrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.5026491, -7.8708827]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Areta 3",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Batu",
+                "Desa": "Songgokerto",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.534061, -7.842315]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bank Sampah Barokah Sejati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Batu",
+                "Kecamatan": "Bumiaji",
+                "Desa": "Bulukerto",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+         {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.155579, -8.117096]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Mugi Barokah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Tlumpu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.150504, -8.102809]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bersatu",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.152119, -8.087692]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Tanjung Muda",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Tanjungsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.161282, -8.118468]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Lontar Berseri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Plosokerep",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.169577, -8.076472]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bersih Barokah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Tanggung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.174183, -8.090076]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Srigading",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Bendogerit",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.144206, -8.101458]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Barokah Jaya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.16518, -8.090088]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Guyub Rukun",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Bendo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.148574, -8.111849]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Pinang Sejahtera",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.17936, -8.088212]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bumi Hijau",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Bendogerit",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.14545, -8.104278]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Seroja",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.154706, -8.086318]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sumber Rejeki",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Tanjungsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.173203, -8.086418]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Jasmine",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Sentul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.153721, -8.094054]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Mekar Jaya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Pakunden",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.154139, -8.126855]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Lancar Jaya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Rembang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.143573, -8.103012]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Celsa",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Sukorejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.177012, -8.06136]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sailendra",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Ngadirejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.184383, -8.081651]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Anggrek",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Bendogerit",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.151821, -8.124138]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sumber Makmur",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Rembang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.187015, -8.091245]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Barokah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Gedog",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.160951, -8.106014]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Adiguna",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Kepanjenkidul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.175047, -8.086881]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Segar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Bendogerit",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.155309, -8.122752]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Kampung Botol",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Rembang",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.1449761, -8.093535]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bengawan Solo Regency",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Pakunden",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.155461, -8.110763]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "El Bahri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Karangsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.167797, -8.102253]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sakura",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Kepanjenkidul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.16347, -8.12903]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Kranjang Mas",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Klampok",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.165788, -8.088754]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Mitra Kita",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Bendo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.138091, -8.087731]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Dipukici",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Pakunden",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.146863, -8.098935]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Ersawa",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Pakunden",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.190553, -8.076403]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Manfaat",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Gedog",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.158962, -8.124679]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sermata",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Plosokerep",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.192019, -8.091568]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Gong Lestari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Gedog",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.14733, -8.118917]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Maju Mapan",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Tlumpu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.172887, -8.101451]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Mekarsari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Sananwetan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.165221, -8.104015]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Samparna",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Kepanjenkidul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.167032, -8.092035]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sudarsana",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Bendo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.160204, -8.088131]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Kasri Mewah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Kauman",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.145445, -8.079523]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Jasmerah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Tanjungsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.174075, -8.097693]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Kebonrojo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Sananwetan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.15932, -8.093281]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Mekarjaya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Kauman",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.158292, -8.125344]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Asta Wiguna",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Plosokerep",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.168426, -8.074852]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Al Kautsar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Kepanjenkidul",
+                "Desa": "Tanggung",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.142438, -8.096495]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Rizky Barokah Abadi",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Pakunden",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.14562, -8.088766]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Toba Berkah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Tanjungsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.151271, -8.090621]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Tanjung Dinar",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Tanjungsari",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.160935, -8.117533]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Aren Asri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Plosokerep",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.152418, -8.103237]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Turi Sejahtera",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Turi",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.144724, -8.119464]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Bintang Sedekah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Tlumpu",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.190348, -8.098027]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Tunas Sejahtera",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sananwetan",
+                "Desa": "Gedog",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [112.157569, -8.09458]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Dimoro Berseri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Blitar",
+                "Kecamatan": "Sukorejo",
+                "Desa": "Kauman",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.980117, -7.816421]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sekar Arum",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Kediri",
+                "Kecamatan": "Mojoroto",
+                "Desa": "Pojok",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.999589, -7.798186]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Windu Widuri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Kediri",
+                "Kecamatan": "Mojoroto",
+                "Desa": "Mojoroto",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.992337, -7.810673]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Melati A",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Kediri",
+                "Kecamatan": "Mojoroto",
+                "Desa": "Sukorame",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.98724, -7.817465]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Mulia",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Kediri",
+                "Kecamatan": "Mojoroto",
+                "Desa": "Pojok",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.985082, -7.822866]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sri Rezeki",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Kediri",
+                "Kecamatan": "Mojoroto",
+                "Desa": "Campurejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.998739, -7.77518]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Intan Berseri Dermo",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Kediri",
+                "Kecamatan": "Mojoroto",
+                "Desa": "Dermo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.996834, -7.803382]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Hijau Daun",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Kediri",
+                "Kecamatan": "Mojoroto",
+                "Desa": "Bujel",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.983831, -7.816338]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sri Willis",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Kediri",
+                "Kecamatan": "Mojoroto",
+                "Desa": "Pojok",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.544472, -7.618083]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Guna Warga",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Kartoharjo",
+                "Desa": "Rejomulyo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.529833, -7.649167]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Griya Kencana",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Taman",
+                "Desa": "Taman",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.540861, -7.658667]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Terate Indah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Taman",
+                "Desa": "Banjarejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.53525, -7.658222]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Timbangan Berkah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Taman",
+                "Desa": "Banjarejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.515528, -7.659556]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "An Nur Abadi",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Taman",
+                "Desa": "Demangan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.516389, -7.646667]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Surya Abadi",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Manguharjo",
+                "Desa": "Nambangan Kidul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.517333, -7.61925]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Matahari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Manguharjo",
+                "Desa": "Winongo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.514389, -7.642111]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Manggis 2",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Manguharjo",
+                "Desa": "Nambangan Kidul",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.5467805, -7.6275271]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Mentari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Kartoharjo",
+                "Desa": "Kanigoro",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.544639, -7.624833]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Cahaya",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Kartoharjo",
+                "Desa": "Kanigoro",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.543844, -7.630976]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Krida Lestari",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Kartoharjo",
+                "Desa": "Kanigoro",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.512128, -7.634242]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Sehati",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Manguharjo",
+                "Desa": "Nambangan Lor",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.506037, -7.629014]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Wijaya Mandiri",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Manguharjo",
+                "Desa": "Manguharjo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.545222, -7.646874]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Riski Lancar Manis VI",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Taman",
+                "Desa": "Manisrejo",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.512148, -7.657263]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Ronggo Jumeno",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Taman",
+                "Desa": "Kuncen",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [111.52961, -7.602845]
+            },
+            "properties": {
+                "Type": "BSU",
+                "Name": "Anugerah",
+                "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+                "Kabupaten": "Kota Madiun",
+                "Kecamatan": "Manguharjo",
+                "Desa": "Patihan",
+                "Kapasitas": null,
+                "Luas_Total": null,
+                "Luas_Unit": null,
+                "Kapasitas1": null
+            }
+        },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.435736, -7.479142]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Arta Warga",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Kranggan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.429918, -7.473878]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Resik Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.435695, -7.476233]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Anggrek Ngaglik",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.449041, -7.489265]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Permata Meri 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Meri",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.443747, -7.460745]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Cemara Indah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Magersari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.453962, -7.459378]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Merbabu Alam Sejahtera",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Kedundung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.46799, -7.463777]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Manggis",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.447011, -7.465311]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Seruni",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Balongsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.442389, -7.45592]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Margo Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Magersari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.435033, -7.484516]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SMA 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Kranggan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.446464, -7.456105]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Arto Moro Dewe",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Wates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.444007, -7.46762]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Resik Sejati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Balongsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.434775, -7.460202]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Magersari Bersatu",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Magersari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.419244, -7.487792]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "K2SI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.467983, -7.463689]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Flamboyan Beraksi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Pulorejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.433489, -7.484635]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Lestari IV (Alam Lestari)",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Kranggan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.442171, -7.456136]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Rejosari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Magersari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.423806, -7.480079]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SMP 3",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Prajuritkulon",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.417259, -7.490073]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Tulip Adem",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.432591, -7.48231]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "APEL 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Kranggan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.43563, -7.471164]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Baru Semi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Jagalan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.437251, -7.457879]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Flamboyan Berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": null,
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.437191, -7.461222]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Rejo Mulyo",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.465406, -7.464993]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Dafa",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Kedundung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.452516, -7.458504]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Barokah Panderman",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Wates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.447415, -7.467353]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Setunggal",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Balongsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.421879, -7.49124]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Armur Green",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.428473, -7.46417]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Cyber",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.423528, -7.489718]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Arlang Berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.417094, -7.490347]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Aisyah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.431903, -7.473764]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sejahtera KW",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.438645, -7.464973]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Purwoindah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": null,
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.414557, -7.487194]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Matahari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.436211, -7.476062]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Tulip Ngaglik",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.431088, -7.47315]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Miji Rukun",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.433765, -7.469276]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Cempaka",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Sentanan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.450384, -7.453253]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Pundi Permata",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.435216, -7.482855]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sejahtera Jaya (Amat Sejahtera)",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": null,
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.416949, -7.486964]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sumubar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.416669, -7.489939]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Anggrek Bulan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.45283, -7.467625]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Baraba Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Kedundung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.445159, -7.486064]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Permata Meri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": null,
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.419122, -7.490076]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Saroja",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.450768, -7.474689]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Idaman",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Meri",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.430361, -7.476246]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Makmur",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.440932, -7.462711]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Arsa Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Magersari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.450027, -7.452462]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Usman 007",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Wates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.427424, -7.473856]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Palm Raja",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Prajuritkulon",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.446164, -7.472653]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SMP IT Permata",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Meri",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.449882, -7.458911]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kawi Sejahtera",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Wates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.438873, -7.473577]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Lestari Alamku",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.453734, -7.466956]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Puji Lestari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Kedundung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.427209, -7.481001]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Tlusur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.461502, -7.46139]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sekar Arum",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Kedundung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.44249, -7.456614]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Anggrek Mulyo 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.439895, -7.464693]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Gaposi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Gedongan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.456961, -7.478324]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Gading",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Gunung Gedangan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.440938, -7.47633]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Nusa Indah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.451423, -7.480987]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Gemilang",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.432695, -7.470506]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Melati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": null,
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.412734, -7.481509]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bina Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Blooto",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.428089, -7.47064]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Prajurit 1 Bangkit",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Prajuritkulon",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.445851, -7.473615]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sumber Rejeki",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Meri",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.438476, -7.473033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mibasa",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.418155, -7.479382]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Boegenvile Blooto",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Blooto",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+      {
+      "properties": {
+        "Type": "BSU",
+        "Name": "Jayeng",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Prajuritkulon",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.436453, -7.465505]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Pengeranan Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": null,
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.431295, -7.478724]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sehati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Kranggan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.440781, -7.476256]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sodaqoh",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.41515, -7.475475]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mawar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Blooto",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.437691, -7.460655]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Citra Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.423908, -7.478597]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Cinde Bersemi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Prajuritkulon",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.428329, -7.4758]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Barokah Miji",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.428304, -7.468705]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mandiri Bersama",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Prajuritkulon",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.430875, -7.465286]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Fitra",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Kauman",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.452864, -7.474123]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kenongo",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Gunung Gedangan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.437028, -7.467824]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kasih Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Balongsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.437871, -7.466111]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Setia Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Balongsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.429762, -7.481168]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Pisang",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Kranggan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.441097, -7.464852]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Setia Makmur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Balongsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.459522, -7.461098]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Damai Sejahtera",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Kedundung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.427662, -7.479769]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Merpati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.437129, -7.466823]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mangunrejo",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Balongsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.430323, -7.4822]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Apel 1",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Kranggan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.450386, -7.453618]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Permata Meri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.442273, -7.458714]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mekarsari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Magersari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.454426, -7.457708]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Putri Ayu",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Kedundung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.42583, -7.473487]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Makmur Sejahtera",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Prajuritkulon",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.414518, -7.483843]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kemasan Indah",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.435887, -7.469628]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Berkah Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Jagalan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.430335, -7.47722]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Asri",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Miji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.4348106, -7.4815658]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sejahtera Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Kranggan",
+        "Desa": "Kranggan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.415773, -7.49065]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Anggrek",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.413253, -7.486909]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Rukun Mulyo",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Blooto",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.435506, -7.482659]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SMP N 4 (Lombok)",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": null,
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.446762, -7.464628]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sedap Malam",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Balongsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.416165, -7.489832]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "40 Ceria",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.425024, -7.483659]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Hijau Berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": "Surodinawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.454758, -7.460157]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sumber Artha",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Kedundung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.41388, -7.486597]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kemasan Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Prajuritkulon",
+        "Desa": null,
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.445727, -7.462977]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kusumojoyo",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Balongsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.453031, -7.449827]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sapu Lidi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Mojokerto",
+        "Kecamatan": "Magersari",
+        "Desa": "Wates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.1742109, -7.7640704]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SDN Triwung Lor 3",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Triwung Lor",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2037131, -7.7764226]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SDN Tisnonegaran 3",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kanigaran",
+        "Desa": "Tisnonegaran",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.188847, -7.7811579]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Maju Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Kademangan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.1725765, -7.7590978]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Srikandi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Ketapang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2249198, -7.778638]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Abadi Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kedopok",
+        "Desa": "Jrebeng Lor",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.1998017, -7.755464]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SMP 10",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kanigaran",
+        "Desa": "Tisnonegaran",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.194482, -7.757486]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sedap Malam",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kanigaran",
+        "Desa": "Curahgrinting",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.1786804, -7.7562864]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kelud Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Ketapang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2093447, -7.7818076]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kenari Indah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kedopok",
+        "Desa": "Jrebeng Wetan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.1884925, -7.7560474]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Berkah Sejahtera",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Pilang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.1953066, -7.7530136]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Flamboyan Berkah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Pilang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.188781, -7.788021]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Anggrek",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Pohsangit Kidul",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.227519, -7.754449]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SMP Negeri 3",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Mayangan",
+        "Desa": "Jati",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.213879, -7.771515]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SMK Negeri 2",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kanigaran",
+        "Desa": "Kanigaran",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.178845, -7.774549]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Rinjani Berkarya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Triwung Kidul",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.219751, -7.739554]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Al Maratush Sholihah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Mayangan",
+        "Desa": "Mangunharjo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.170706, -7.774695]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bestari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Triwung Kidul",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2164981, -7.7415558]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Benteng Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Mayangan",
+        "Desa": "Mayangan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.1687806, -7.7675388]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Himalaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Triwung Lor",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2165, -7.80539]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Harapan Sejahtera",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Wonoasih",
+        "Desa": "Pakistaji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.1763545, -7.762975]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Gemelina",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Triwung Lor",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.178864, -7.7568338]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Melati Berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Probolinggo",
+        "Kecamatan": "Kademangan",
+        "Desa": "Ketapang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.68106492752186, -7.228158555736152]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kharisma Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Surabaya",
+        "Kecamatan": "Asem Soro",
+        "Desa": "Tambak Sarioso",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6803035, -7.229729]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Buyuk Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Kota Surabaya",
+        "Kecamatan": "Asem Soro",
+        "Desa": "Tambak Sarioso",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.270821, -8.259421]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kraton Berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Yosowilangun",
+        "Desa": "Kraton Berseri",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.231746, -8.131801]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SD Kreatif Muhammadiyah Lumajang",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Jogoyudan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.196394, -8.159232]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "UPT SMPN 1 Sumbersuko",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Sumbersuko",
+        "Desa": "Sumbersuko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.22285, -8.135999]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Cenderawasih",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Ditotrunan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.224499, -8.12624]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sumber Makmur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Tompokersan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.220724, -8.134657]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Citra Sehat 12",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Citrodiwangsan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.215287, -8.121276]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Puspa Indah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Tompokersan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.233055, -8.137684]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "SD Al Ikhlas",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Jogoyudan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.238129, -8.123058]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Rejo Sehat",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Sukodono",
+        "Desa": "Sumberejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.21415, -8.130344]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Citra Sehat 17",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Citrodiwangsan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.237659, -8.119586]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Taman Sumberejo",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Sukodono",
+        "Desa": "Sumberejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.212604, -8.136788]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Citra Sehat 19",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Citrodiwangsan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.1338, -8.038164]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Guessa",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Gucialit",
+        "Desa": "Gucialit",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.233954, -8.130785]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Srikandi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Jogoyudan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.229547, -8.13595]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Lestari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Jogotrunan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.251156, -7.996906]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Soseta",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Klakah",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.231328, -8.11203]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mawar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Kepuharjo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.230785, -8.113179]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Belimbing Berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Lumajang",
+        "Kecamatan": "Lumajang",
+        "Desa": "Kepuharjo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.305369, -7.6280514]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Limpat Rengginas",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Panekan",
+        "Desa": "Cepoko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3314316, -7.6578445]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sedap Malam",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3232546, -7.6322383]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mama Bisa",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Masda Berseri 6",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3204275, -7.6479181]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Flamboyan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292352, -7.6351767]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bersiaga",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3232546, -7.6322383]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Teratai",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Selosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3161911, -7.6480649]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Melati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3204007, -7.6478862]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Cemara 3",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292352, -7.6351767]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Andong",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.305369, -7.6280514]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Cepoko",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Cepoko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.318212, -7.6479075]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Gladiol 4",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3157605, -7.6475658]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Cempaka",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3144053, -7.6670217]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sapu Jagad",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Ringinagung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.32035, -7.6482944]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Tulip 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Jetis Maju Bersama 5",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3232546, -7.6322383]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Aster",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3191723, -7.6435047]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Teratai 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4082122, -7.6878452]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bogem Mentah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Bogem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3217363, -7.6473705]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sedap Malam 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292352, -7.6351767]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mawar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3239681, -7.6321213]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sedap Malam 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292396, -7.6576463]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bogenvil",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Magetan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Pepaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Bogem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3483075, -7.7688227]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sumber Abadi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Parang",
+        "Desa": "Mategal",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Nangka",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Bogem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3038785, -7.6396162]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Berkah Sejati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Panekan",
+        "Desa": "Terung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3225926, -7.6482767]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Dahlia",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Panekan",
+        "Desa": "Terung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3378834, -7.6895152]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Masda Berseri 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3369456, -7.6908112]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Masda Berseri 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3206552, -7.6490583]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mini Kreasi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Rambutan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Bogem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3368753, -7.6551923]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Loh Jinawi 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Mangkujayan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292164, -7.6166185]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bunda Wates Berkarya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Panekan",
+        "Desa": "Wates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3369201, -7.6927821]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Guyub Rukun 3",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mangga",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Sampung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4079394, -7.7405203]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Limbas",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Lembeyan",
+        "Desa": "Pupus",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Jambu",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Bogem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3383831, -7.6558326]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Loh Jinawi 3",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Mangkujayan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3029795, -7.6526161]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sayuk Rukun",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Sidorejo",
+        "Desa": "Kalang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3053851, -7.6319168]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Barokah Sejahtera 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Panekan",
+        "Desa": "Cepoko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3221557, -7.6492503]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Anggrek",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Guyub Rukun 5",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Pisang",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Bogem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4078842, -7.6954373]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Lemon",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Sampung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.49005, -7.5469077]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Matahari Pencol",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kartoharjo",
+        "Desa": "Pencol",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292264, -7.6529379]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Loh Jinawi 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Mangkujayan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3339876, -7.6527023]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Guyub",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tambran",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4506736, -7.6022818]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sayuk Santoso",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Maospati",
+        "Desa": "Kraton",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292352, -7.6351767]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kantil Putih",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Guyub Rukun 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sawo",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Bogem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Jetis Maju Bersama",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.2912096, -7.6741085]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Niti Rejeki",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Plaosan",
+        "Desa": "Nitikan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4454748, -7.6029897]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Maospati",
+        "Desa": "Maospati",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4189581, -7.5715669]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kartini",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Karangrejo",
+        "Desa": "Karangrejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4207857, -7.5886346]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Gulun Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Maospati",
+        "Desa": "Gulun",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.318951, -7.6474513]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Mawar Kuning",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kelengkeng",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Bogem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3110927, -7.6444528]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bhakti Kusuma",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Selosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Daleman",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4416585, -7.5925784]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Lancar Rejeki",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Maospati",
+        "Desa": "Kraton",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3157605, -7.6475658]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Berlian",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Panekan",
+        "Desa": "Terung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3161911, -7.6480649]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sakura",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3416804, -7.6755681]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Berkah Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4141742, -7.6951961]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Jeruk",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Bogem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3204275, -7.6479181]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Ceria",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.44411, -7.59592]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Guyup Rukun",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Maospati",
+        "Desa": "Kraton",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Matahari Bersinar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292352, -7.6351767]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bukit Ayu",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292352, -7.6351767]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sakinah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Zona Enam",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Kawedanan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.2745681, -7.6944751]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Dompong",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Plaosan",
+        "Desa": "Bogoarum",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3181339, -7.6583183]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Delima",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Selosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3632443, -7.6695433]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Berkah Manfaat",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292352, -7.6351767]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Lilin Emas",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3276312, -7.6349906]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Matahari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Jetis Maju Bersama 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4186457, -7.6579457]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Trubus Gemilang",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Bendo",
+        "Desa": "Belotan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292352, -7.6351767]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Guna Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Guyub Rukun 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3017897, -7.6261869]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Ertiga Mandiri 3",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Panekan",
+        "Desa": "Cepoko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3530641, -7.7124247]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sempulur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Parang",
+        "Desa": "Krajan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3240699, -7.6356353]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kenanga",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3162513, -7.6463151]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Anyelir 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kencur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Sampung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Temulawak",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Sampung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.305369, -7.6280514]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Rejeki",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Panekan",
+        "Desa": "Cepoko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kunyit",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Sampung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3038785, -7.6396162]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Tulip",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Panekan",
+        "Desa": "Terung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Jahe",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Sampung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3331077, -7.6588664]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kemuning",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Bulukerto",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3159926, -7.6473737]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Anyelir 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3312498, -7.6612659]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Panderman Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Bulukerto",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Naga",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Sampung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3161911, -7.6480649]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Kerbra",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292164, -7.6166185]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Jawara",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Panekan",
+        "Desa": "Wates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.48293, -7.56443]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Klagen Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Barat",
+        "Desa": "Klagen",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4097027, -7.6967057]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Banana",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kawedanan",
+        "Desa": "Sampung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4454748, -7.7459277]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Karuna",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Lembeyan",
+        "Desa": "Kedungpanji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Masboy Berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3169467, -7.6458554]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Anggrek Ungu",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4414313, -7.5260939]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Karya Sembada",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Kartoharjo",
+        "Desa": "Bayem Wetan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3161911, -7.6480649]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Wijaya Kusuma",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3292352, -7.6351767]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Aneka Guna",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Tawanganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3022193, -7.7392873]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Sombo Berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Poncol",
+        "Desa": "Sombo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3381593, -7.6902033]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Masda Berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Ngariboyo",
+        "Desa": "Ngariboyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3398863, -7.661868]
+      },
+      "properties": {
+        "Type": "BSU",
+        "Name": "Buluasri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Bulukerto",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+            }
+        },
+         {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Buluasri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Magetan",
+        "Kecamatan": "Magetan",
+        "Desa": "Bulukerto",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3398863, -7.661868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Gemah Ripah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tangkilsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.65, -8.051111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Arta Limbah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumbermanjing Wetan",
+        "Desa": "Druju",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.675, -8.249167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Guyub Rukun",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sekarpuro",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.666667, -7.95]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Molek",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kepanjen",
+        "Desa": "Cepokomulyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5617585, -8.140133]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit MULIA Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kalipare",
+        "Desa": "Sumberpetung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.486713, -8.208463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit BERLIAN 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pagelaran",
+        "Desa": "Banjarejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.62229, -8.187182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Berkah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dampit",
+        "Desa": "Baturetno",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.783333, -8.25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Banowati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Sidodadi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.703162, -7.855145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit KENANGA KARLOS",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Bocek",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.589693, -7.872714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Sumber Rejeki",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wonosari",
+        "Desa": "Plandi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.515725, -8.107444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit GPR BERSERI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Pakisjajar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.719968, -7.956194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Semangka 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6347636, -8.0555337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Taruno Makmur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dau",
+        "Desa": "Landungsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.591515, -7.931459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Semangka 10",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.616667, -8.050833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Melati 03",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kasembon",
+        "Desa": "Pondok Agung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.507655, -8.040066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Sri Rejeki",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Ternyang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.526176, -8.169524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Tejosari Makmur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.667533, -7.874258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Larasati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Pakisjajar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.716667, -7.95]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Barokah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dampit",
+        "Desa": "Pamotan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.733333, -8.21]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit SRIKAYA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Bedali",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.69119, -7.854932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Barokah 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kasembon",
+        "Desa": "Pondok Agung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.331729, -7.852925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Abadi RW 02 Ngenep Karangploso",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngenep",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.623031, -7.899779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Anggrek",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kalipare",
+        "Desa": "Sukowilangun",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.451936, -8.078007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Pkh Sejahtera",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Bunut Wetan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.70795, -7.955664]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit ALAM INDAH",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Ngajum",
+        "Desa": "Palaan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.546859, -8.1129167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit MELATI 04",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wonosari",
+        "Desa": "Kebobang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.507655, -8.040066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Srikandi Karang Kates",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Karangkates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.452642, -8.158158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Kalpataru",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Klampok",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.654236, -7.887431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Sekar Arum",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sekarpuro",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6697016, -7.9645045]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Dewi Ratih 5",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sukoanyar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.740523, -7.986067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit MELATI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dampit",
+        "Desa": "Pamotan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.733333, -8.21]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Asamica",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Wonorejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.65171, -7.807946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Ibu Trampil",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Kalirejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.698112, -7.848525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit ABADI 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kkecamatan": "Karangploso",
+        "Desa": "Ngenep",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.625772, -7.898792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Mutiara",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tumpang",
+        "Desa": "Jeru",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.760688, -7.991838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit MATAHARI KETANGI 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Tegalgondo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.607144, -7.922436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Semangka 3",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6347636, -8.0555337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit MAJU JAYA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Bunut Wetan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.703357, -7.953215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit PUSPA JENAR",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Pakisjajar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.729811, -7.949609]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Slatri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kasembon",
+        "Desa": "Pait",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.348884, -7.796952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Sidodadi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wonosari",
+        "Desa": "Plaosan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.49147, -8.050401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Sumber Jleng",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Sumber Pucung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.478349, -8.157601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Banksampah Palupi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.664727, -7.885697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Semangka 4",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6347636, -8.0555337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit BERLIAN Putat Kidul 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Gondanglegi",
+        "Desa": "Putat Kidul",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.65451, -8.173018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Dewi Ratih 6",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sukoanyar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.740523, -7.986067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit KARTIKA Karangkates 03",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Karangkates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.4563256, -8.1580476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit KIPAS DARLING",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dampit",
+        "Desa": "Dampit",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.733333, -8.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Bersih Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Ngantang",
+        "Desa": "Ngantru",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.36422, -7.897174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit KARYA WARSA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Kalirejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.701226, -7.840368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Insan Ceria Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tumpang",
+        "Desa": "Slamet",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.716667, -7.983333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Anggrek Bulan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.66605, -7.8819241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit KPP MAKMUR",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakisaji",
+        "Desa": "Wadung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5925, -8.042778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Bersinar Tegalsari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kepanjen",
+        "Desa": "Tegalsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.571049, -8.169181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Melati Kepuharjo",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Kepuharjo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6179468, -7.9149122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit PUNTADEWA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Pakisjajar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.731431, -7.951151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit KARTIKA CANDIRENGGO",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.665049, -7.871767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit ANISA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.666774, -7.884592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Kartini",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Karangkates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.449677, -8.155354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Semangka 5",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6347636, -8.0555337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Barokah 3",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dampit",
+        "Desa": "Pamotan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.751559, -8.195945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit MAKMUR",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Ngantang",
+        "Desa": "Ngantru",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.365393, -7.894545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Mandiri 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Kalirejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.683333, -7.833333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Berlian Kemulan Turen",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Turen",
+        "Desa": "Kemulan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.656372, -8.223686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit KRAPUDASTAR",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kepanjen",
+        "Desa": "Cepokomulyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.565278, -8.143056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit GPA KARLOS",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngijo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.606641, -7.895655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit MELATI TELAIH",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Kepuharjo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.617947, -7.914912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit PKK Sukoanyar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sukoanyar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.745608, -7.978735]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Anggur 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Ngwonggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.706274, -8.0768722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Crysant Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sekarpuro",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6749888, -7.9678916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit SRIMADU",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Karangkates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.452288, -8.155342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Semangka 6",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6347636, -8.0555337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit BERLIAN Putat Kidul 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Gondanglegi",
+        "Desa": "Putat Kidul",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.650812, -8.172728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Barokah 4",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dampit",
+        "Desa": "Pamotan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.763626, -8.195527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Dewi Sri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Turirejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.701412, -7.826508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Gedangsewu",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Randuagung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.676662, -7.867809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Griya Lestari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Ardimulyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.676121, -7.882193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Tejosari Bersemi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.66484, -7.964181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Kavterin",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kepanjen",
+        "Desa": "Cepokomulyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.565473, -8.131427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Melati l",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Jatisari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6705194, -8.0687554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit SENYUM",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Ngantang",
+        "Desa": "Jombok",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.370525, -7.826454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Berlian Turen",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Turen",
+        "Desa": "Turen",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.655073, -8.222046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit ABADI 11 GENITRI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngenep",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.624822, -7.890063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Sejahtera 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Jambearjo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.660273, -8.07954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Semangka 7",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6347636, -8.0555337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Berlian Sukomaju",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Gondanglegi",
+        "Desa": "Sukorejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.587181, -8.148427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Barokah 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dampit",
+        "Desa": "Dampit",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.746662, -8.189366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Binar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Ketindan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.663474, -7.82615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Al-azhar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Gunungrejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.64663, -7.860084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Sumekar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sumber Pasir",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.737372, -7.971782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit KAMPUS",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.665423, -7.879923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit SRIKANDI 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6648633, -7.8888048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit WANITA MANDIRI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Gedangan",
+        "Desa": "Sumberejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6183751, -8.2594539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Senyum 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Ngantang",
+        "Desa": "Jombok",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.368462, -7.82086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit SEKAWAN BERSERI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngijo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.609652, -7.906082]
+      }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit SEMANGKA 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.632014, -8.064799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Semangka 9",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6347636, -8.0555337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Berlian ganjaran",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Gondanglegi",
+        "Desa": "Ganjaran",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.604578, -8.131405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Cahaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dampit",
+        "Desa": "Pamotan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.735812, -8.185217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Kosahi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Tunjungtirto",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.636856, -7.910593]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Tunas Rejeki",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Sumberporong",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.721507, -7.821503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Kenanga",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sekarpuro",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.666667, -7.966667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Sejahtera 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Jambearjo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6600907, -8.0757337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Njareng arto",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Srigading",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.721818, -7.873361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Mawar peduli",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wagir",
+        "Desa": "Sitirejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.599381, -8.022909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit ABADI CURKEM",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngenep",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.619297, -7.889993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit MELATI WRINGIN ANOM",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Kepuharjo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.625572, -7.905247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Sekar mayang",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Purwosekar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.700371, -8.059364]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Santren",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dau",
+        "Desa": "Landungsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.595792, -7.936932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Anggrek 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Wonorejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.67742, -7.82101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Pakembersinar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Pakiskembar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.72133, -7.965129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit DAHLIA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Bedali",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.692557, -7.867315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Jurangwugu Beriman",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wagir",
+        "Desa": "Jedong",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.589128, -7.987527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Wiro Sableng",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Jabung",
+        "Desa": "Argosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.764222, -7.943472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Berlian",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pagelaran",
+        "Desa": "Sidorejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.623574, -8.205785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Habibi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Watugede",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.668934, -7.900111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Abadi Cokro",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngenep",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.622821, -7.901172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Semangka 8",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.632079, -8.058828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Semangka 11",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6347636, -8.0555337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit MULYO DAU",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dau",
+        "Desa": "Landungsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.593049, -7.93605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Kedung berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kepanjen",
+        "Desa": "Kedungpedaringam",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5796377, -8.1493042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit KIPAS DARLING 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dampit",
+        "Desa": "Dampit",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.733333, -8.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Wijaya Kusuma",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Ardimulyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.677029, -7.874935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit TEJOSARI CERIA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo (Dsn. TEJOSARI rt.05 rw.09)",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6593458, -7.8676894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Dewi arimbi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Sidodadi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.700282, -7.858689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit KENANGASARI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "BOCEK (Dsn. Manggis RT03 RW 06)",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.598388, -7.875324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit lestari mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wonosari",
+        "Desa": "Plandi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.522378, -8.119793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Berlian Krajan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pagelaran",
+        "Desa": "Pagelaran",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.623261, -8.194596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Guyup rukun",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Pagentan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.668907, -7.895905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Permata 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.667533, -7.874258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Kopi Hitam 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumbermanjing Wetan",
+        "Desa": "Sitiarjo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6817314, -8.3797017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Lestari 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kalipare",
+        "Desa": "Kalipare",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.486328, -8.206343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit SEKAWAN",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Pagentan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.663702, -7.893543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit pkh maju jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Bunut Wetan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7045321, -7.9549427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Arta limbah 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumbermanjing Wetan",
+        "Desa": "Druju",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6764786, -8.2419522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Jaring arto",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Srigading",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7450068, -7.8583869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Griya resik",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Banjarejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.712886, -7.990732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Kartini Karangkates",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Karangkates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.4471638, -8.1586163]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Berkah Jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Pagentan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.665761, -7.891457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit puskesmas/prolanis",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Pakiskembar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7241509, -7.9688854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Mbois ilakes",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wonosari",
+        "Desa": "Plandi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.515612, -8.106359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Berlian 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pagelaran",
+        "Desa": "Sidorejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.623574, -8.205785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Dewi Ratih 8",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sukoanyar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.741711, -7.987598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Lumintu",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Ardimulyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.673889, -7.873611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit taman kuncaran",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tirtoyudo",
+        "Desa": "Taman kuncaran",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.795478, -8.216739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Apel",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Donomulyo",
+        "Desa": "Donomulyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.431062, -8.280084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit KARTIKA KARANGKATES 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Karangkates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.4563256, -8.1580476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Kemuning",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Mangliawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.668491, -7.949823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Arka Lestari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wonosari",
+        "Desa": "Plandi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.524731, -8.105036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit BERLIAN PANJAITAN",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Gondanglegi",
+        "Desa": "Gondanglegi Kulon",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.637138, -8.173375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit SUMBER JLENG 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Sumber Pucung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.475982, -8.156761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Jaman (jatisari mandiri)",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakisaji",
+        "Desa": "Jatisari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.575168, -8.0487779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Adem tentrem sejahtera 2",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Banjarejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.712233, -7.9950204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit BSR3 ( Ramah Rukun Resik)",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Saptorenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.682437, -7.951986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Brojo limo",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Ardimulyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.672332, -7.873173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit PERMATA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngijo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.602726, -7.896819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit MATAHARI GONDANG",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Tegal Gondo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.599414, -7.918804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Adem tentrem sejahtera mandiri 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Banjarejo (Dsn. NGAMPRONG RT04 RW04)",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7034932, -7.9675352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit kartika karangkates",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Karangkates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.452802, -8.156845]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Anggrek 3",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wonosari",
+        "Desa": "Wonosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.471498, -8.02812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Abadi Kubung",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngenep",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.619505, -7.896295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Dewi ratih 7",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sukoanyar (Dsn. Baran)",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.745138, -7.978805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Dr. Sutomo Berkah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumberpucung",
+        "Desa": "Senggreng",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5096093, -8.1802134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Al Khoir",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Saptorenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.700315, -7.9295521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Jabal Makmur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Gunungrejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6139055, -7.8048289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Mandiri Soneta",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakisaji",
+        "Desa": "Kebonagung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.615, -8.037222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Jasatirta",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dau",
+        "Desa": "Landungsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5870873, -7.9309183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Tejosari 49 jozz",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.662215, -7.871511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Kendedes 46",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.66117, -7.884035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Sari Rejeki",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Ngantang",
+        "Desa": "Ngantru",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.365221, -7.894474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Palupi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6642204, -7.8864526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit punden",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dau",
+        "Desa": "Landungsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5870873, -7.9309183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Bunda kreatif-griya permata alam",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngijo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.607242, -7.894743]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Matahari Dawuhan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Tegalgondo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.590603, -7.914109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Sapta Dwi Karya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6635133, -7.8851721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Dewi ratih 4",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sukoanyar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7420274, -7.9831227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Siji Songo",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dau",
+        "Desa": "Landungsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5870873, -7.9309183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Matahari Babatan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Tegalgondo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.598205, -7.912989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit kriya perempuan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Banjararum",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.66607, -7.91936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Dewi ratih5",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Sukoanyar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7420274, -7.9831227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit PAS 27 KEPANJEN",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kepanjen",
+        "Desa": "Kepanjen",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.564826, -8.123561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit PHI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Purwosekar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.700315, -8.0619281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit WARINGIN ASRI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Turen",
+        "Desa": "Gedog Wetan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.683333, -8.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Gunung Arto",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Saptorenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6911138, -7.9435417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit BETRIS MOJOSARI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kepanjen",
+        "Desa": "Mojosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.576346, -8.098174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Sapta Karya Dwipa",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6629844, -7.8858571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit SEROJA 313",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.668733, -7.876931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit SUMBER MAKMUR",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Pagentan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6645602, -7.8959905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit MULIA ASRI 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kalipare",
+        "Desa": "Sumberpetung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.4827889, -8.2508282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Suka maju",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pagak",
+        "Desa": "Pandanrejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.501084, -8.286239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Guyub Rukun Loh Jinawi 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Banjarejo (Dsn. NGAMPRONG RT01 RW05)",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7034932, -7.9675352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit SEKAWAN BERSERI 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngijo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6092447, -7.9059963]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Hidayah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tumpang",
+        "Desa": "Duwet Krajan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8194887, -8.0193528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Cempaka",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Jabung",
+        "Desa": "Sidorejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.748298, -7.977454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Pasukan KRESEK",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumbermanjing Wetan",
+        "Desa": "Kedung Banteng",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.702625, -8.377499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Istiqomah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Ardimulyo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.676437, -7.875695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit SUMBER REJEKI 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "candirenggo (Dsn. Karang waru)",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6645602, -7.8807376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Merpati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Watugede",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.666313, -7.905077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Semangka",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6347636, -8.0555337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Gampingan bersinar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pagak",
+        "Desa": "Gampingan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.545666, -8.185296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Matahari 2 ketangi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Tegalgondo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5975167, -7.9163303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit lumbung mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wonosari",
+        "Desa": "Plandi (Dsn Selobekiti)",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5259993, -8.1243385]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit KOPI HITAM",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumbermanjing Wetan",
+        "Desa": "SITIARJO",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.674873, -8.372465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit mekar sari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "CANDIRENGGO",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.652988, -7.875459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Tejosari asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Candirenggo (Dsn. Tejosari RT03 RW09)",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6593458, -7.8676894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Donowarih",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.580758, -7.878793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit MELATI 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dampit",
+        "Desa": "PAMOTAN",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.733333, -8.21]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Anggrek 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Wonorejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.678362, -7.818965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Nusa indah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Sumbermanjing Wetan",
+        "Desa": "Sumber manjing wetan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.689756, -8.264995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Insan Ceria",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Mangliawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.66484, -7.964181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Jajar berseri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Pakisjajar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7241509, -7.9536213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Mufas",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Lawang",
+        "Desa": "Wonorejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.663234, -7.814656]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit SDN 1 JABUNG",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Jabung",
+        "Desa": "Jabung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.75, -7.933333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Bigstone",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Singosari",
+        "Desa": "Watugede",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.669629, -7.899094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit NPH RW 06",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Karangploso",
+        "Desa": "Ngijo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.603109, -7.901032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BERLIAN",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pagelaran",
+        "Desa": "Banjarejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.62229, -8.187182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Cemerlang 11",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Pakis",
+        "Desa": "Mangliawan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.663162, -7.961341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Semangka 12",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Tajinan",
+        "Desa": "Tambaksari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6347636, -8.0555337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Mandiri bersama",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dau",
+        "Desa": "Landungsari klandungan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.590075, -7.932476]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit BANTUR BERSERI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Bantur",
+        "Desa": "Bantur",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.578553, -8.307628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Lestari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kalipare",
+        "Desa": "Kalipare",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.486328, -8.206343]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Babat Rahagi",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Dau",
+        "Desa": "landungsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.594896, -7.928762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit salam lestari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Donomulyo",
+        "Desa": "Kedungsalam",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.45, -8.333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "01 BS Unit Melati 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Kasembon",
+        "Desa": "Pondok Agung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.311443, -7.834916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit ALAM INDAH 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Ngajum",
+        "Desa": "Palaan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.546859, -8.1129167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit MELATI 03",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Malang",
+        "Kecamatan": "Wonosari",
+        "Desa": "Kebobang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.507655, -8.040066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah MBEJAJI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Ngronggot",
+        "Desa": "Juwet",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.048943, -7.716932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah PLOSO",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Nganjuk",
+        "Desa": "Ploso",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.898371, -7.617338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah KEDONDONG",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Bagor",
+        "Desa": "Kedondong",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.884603, -7.584777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah SINAR TERANG",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Pace",
+        "Desa": "Jampes",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.897608, -7.684265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah MULYO AGUNG",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Kertosono",
+        "Desa": "Kudu",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.109641, -7.5852936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah DESA BLONGKO",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Ngetos",
+        "Desa": "Blongko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.831027, -7.745102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah ESTU SAE",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Bagor",
+        "Desa": "Petak",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.8486608, -7.5686842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah BUKUR",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Patianrowo",
+        "Desa": "Bukur",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.066885, -7.542682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah BUNGUR MAKMUR",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Sukomoro",
+        "Desa": "Bungur",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.957466, -7.60213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah DESA NGANGKATAN",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Rejoso",
+        "Desa": "Ngangkatan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.9269112, -7.5233034]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah SEGER WARAS",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Baron",
+        "Desa": "Mabung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.031866, -7.569085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah DESA JEGREG",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Lengkong",
+        "Desa": "Jegreg",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.086404, -7.525369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah MAJU BAHAGIA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Prambon",
+        "Desa": "Gondanglegi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.016482, -7.754168]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah BAROKAH",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Baron",
+        "Desa": "Kemlokolegi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.06138, -7.586832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah MUSIRKIDUL",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Rejoso",
+        "Desa": "Musirkidul",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.9209493, -7.5159971]
+      }
+    },
+    {
+    
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah DAHLIA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Gondang",
+        "Desa": "Senjayan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.002845, -7.571688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah TANJUNG",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Tanjunganom",
+        "Desa": "Tanjunganom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.9880199, -7.6407864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah CENGKOK",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Ngronggot",
+        "Desa": "Cengkok",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.035691, -7.692048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah ANGGREK",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Nganjuk",
+        "Desa": "Werungotok",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.922944, -7.593361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah FLAMBOYAN",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Loceret",
+        "Desa": "Loceret",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.8944034, -7.6491908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah DESA GETAS",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Tanjunganom",
+        "Desa": "Getas",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.956411, -7.651202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah BERINGIN HIJAU",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Nganjuk",
+        "Kecamatan": "Nganjuk",
+        "Desa": "Ringinanom",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.8919727, -7.5864928]
+      }
+    },
+  {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Guyub Rukun",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Ngawi",
+        "Desa": "Karangasri",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4570036, -7.3975581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Manunggal Roso Banaran Indah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Ngawi",
+        "Desa": "Kartoharjo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4524831, -7.4242472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Uwuh Wiguna",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Ngawi",
+        "Desa": "Karangasri",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.455403, -7.4079751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bidadariku",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Ngawi",
+        "Desa": "Karangasri",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4572021, -7.4072636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Sendang Ngumbul",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Padas",
+        "Desa": "Munggut",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.5130336, -7.4289888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Dadosarto",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Paron",
+        "Desa": "Ngale",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3682332, -7.4156712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Amanah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Kedunggalar",
+        "Desa": "Ds. Wonokerto",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.320401, -7.426317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Peduli Alam Lestari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Mantingan",
+        "Desa": "Sambirejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.184021, -7.372606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit PG. Soedhono",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Geneng",
+        "Desa": "Tepas",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.419102, -7.496783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Mojorejo Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Ngawi",
+        "Desa": "Grudo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4235859, -7.4051035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Desa Geneng",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Geneng",
+        "Desa": "Geneng",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4243098, -7.4860166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Pawuan Asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Karangjati",
+        "Desa": "Campurasri",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.5620204, -7.4747292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Barokah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Ngawi",
+        "Desa": "Watualang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4115862, -7.3918846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Sumber Berkah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Ngawi",
+        "Kecamatan": "Geneng",
+        "Desa": "Dempel",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.438393, -7.4522709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Sekar Tanjung",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Pacitan",
+        "Desa": "Tanjungsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.111478, -8.19536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Barkah Makmur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Pacitan",
+        "Desa": "Ploso",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.096697, -8.214005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit ORPEP",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Pringkuku",
+        "Desa": "Dadapan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.070781, -8.236607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Swadaya Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Pacitan",
+        "Desa": "Arjowinangun",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.117021, -8.196049]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Wanita Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Tulakan",
+        "Desa": "Ngile",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.25532, -8.139548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit FLAMBOYAN",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Tulakan",
+        "Desa": "Jatigunung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.1842102, -8.2103528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Lingkungan Lestari",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Tulakan",
+        "Desa": "Desa Gasang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.2427701, -8.1465648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Gemah Ripah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Pringkuku",
+        "Desa": "Poko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.043211, -8.220116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Karya Mandiri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Pacitan",
+        "Desa": "Kayen",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.136544, -8.212764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bias",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Tulakan",
+        "Desa": "Bubakan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.266395, -8.149027]
+      }
+    },
+    {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU Germa",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pamekasan",
+      "Desa": "Kelurahan Patemon",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4799, -7.171502]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU SMAN 4 Pamekasan",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pamekasan",
+      "Desa": "Kelurahan Bugih",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.475722, -7.151179]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU Naviri MAN 2 Pamekasan",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pademawu",
+      "Desa": "Kelurahan Lawangan Daya",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.496779, -7.160173]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU Hamdalah",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Kadur",
+      "Desa": "Desa Pamoroh",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.52708, -7.088341]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU RT.02 RW.06 Kelurahan Gladak Anyar",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pamekasan",
+      "Desa": "Gladak Anyar",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4797, -7.1569]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU SDN Kowel 1",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pamekasan",
+      "Desa": "Kelurahan Kowel",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4935, -7.13174]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU SDN Kowel 3",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pamekasan",
+      "Desa": "Kelurahan Kowel",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.486263, -7.1372]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU MTSN 2 Pamekasan",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pamekasan",
+      "Desa": "Kelurahan Kolpajjung",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.48507, -7.14894]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU SMPN 1 Larangan",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Larangan",
+      "Desa": "Desa Larangan Luar",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.54753, -7.13062]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU Bestari",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pamekasan",
+      "Desa": "Desa Nyalabu Laok",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.458963, -7.151145]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU SMAN 1 Pakong",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pakong",
+      "Desa": "Desa Pakong",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.54262, -7.029721]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU Putra Bangsa",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pamekasan",
+      "Desa": "Kanginan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.49055, -7.183778]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BSU SMAN 2 Pamekasan",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Pamekasan",
+      "Kecamatan": "Pademawu",
+      "Desa": "Desa Barurambat Timur",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.49669, -7.16272]
+    }
+  },
+{
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bias",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pacitan",
+        "Kecamatan": "Tulakan",
+        "Desa": "Bubakan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.266395, -8.149027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU Germa",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pamekasan",
+        "Desa": "Kelurahan Patemon",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.4799, -7.171502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU SMAN 4 Pamekasan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pamekasan",
+        "Desa": "Kelurahan Bugih",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.475722, -7.151179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU Naviri MAN 2 Pamekasan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pademawu",
+        "Desa": "Kelurahan Lawangan Daya",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.496779, -7.160173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU Hamdalah",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Kadur",
+        "Desa": "Desa Pamoroh",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.52708, -7.088341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU RT.02 RW.06 Kelurahan Gladak Anyar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pamekasan",
+        "Desa": "Gladak Anyar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.4797, -7.1569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU SDN Kowel 1",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pamekasan",
+        "Desa": "Kelurahan Kowel",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.4935, -7.13174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU SDN Kowel 3",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pamekasan",
+        "Desa": "Kelurahan Kowel",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.486263, -7.1372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU MTSN 2 Pamekasan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pamekasan",
+        "Desa": "Kelurahan Kolpajjung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.48507, -7.14894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU SMPN 1 Larangan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Larangan",
+        "Desa": "Desa Larangan Luar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.54753, -7.13062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU Bestari",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pamekasan",
+        "Desa": "Desa Nyalabu Laok",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.458963, -7.151145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU SMAN 1 Pakong",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pakong",
+        "Desa": "Desa Pakong",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.54262, -7.029721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU Putra Bangsa",
+        "Description": "Bank Sampah Unit dikelola oleh LSM",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pamekasan",
+        "Desa": "Kanginan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.49055, -7.183778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "BSU SMAN 2 Pamekasan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pamekasan",
+        "Kecamatan": "Pademawu",
+        "Desa": "Desa Barurambat Timur",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.49669, -7.16272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit KUTOREJO INDAH",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pandaan",
+        "Desa": "Kelurahan Kutorejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7047843, -7.6514152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit sahabat alam",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Beji",
+        "Desa": "Desa Beji",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7450068, -7.5947854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah opek",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Sumbersuko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6699981, -7.6363833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah SUKA MAJU",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwosari",
+        "Desa": "Ds. Bakalan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7599036, -7.7484341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah berkat",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kalirejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7911863, -7.5833969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank samsul",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kidul Dalem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7852277, -7.6014258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAHDADI REJO",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwodadi",
+        "Desa": "Ds. Parerejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7241509, -7.8062499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit SEKTOR BARAT",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pandaan",
+        "Desa": "Kelurahan Jogosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6988252, -7.6568093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit flamboyan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Beji",
+        "Desa": "Desa Keduringin",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7539449, -7.5816489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah adiyuta",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Kabupaten Pasuruan",
+        "Desa": "Sumbersuko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7137227, -7.74468]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah SUMBER REJEKI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwosari",
+        "Desa": "Dsn. Pagerwetan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7196817, -7.7544906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah maslahat",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Desa Masangan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8194887, -7.5932165]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah Biss",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kidul Dalem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7852277, -7.6014258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH WANTA MANDIRI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwosari",
+        "Desa": "Dusun Sembung Ds. Parerejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7323893, -7.7989372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit sampai makmur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Beji",
+        "Desa": "Desa Sidowayah",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7762899, -7.612036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah wonosari makmur",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Wonosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6764786, -7.6111986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah SEKAR MULYO",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwosari",
+        "Desa": "Sekarmojo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7241509, -7.7707267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah terpadu",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Desa Raci",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8373635, -7.592231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah panggung jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kidul Dalem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7852277, -7.6014258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH AL MUBARROK",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwodadi",
+        "Desa": "Ds Tutur",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7271303, -7.803544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit melati 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Beji",
+        "Desa": "Desa Cangkring Malang",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7345789, -7.5814462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah sejahtera 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Carat",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6824377, -7.5552112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH BANTENG ASRI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwodadi",
+        "Desa": "Lebakrejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7688416, -7.8164164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit CANDI MULYO",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pasuruan",
+        "Desa": "Purwosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7271303, -7.7629501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH OSPEK",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pandaan",
+        "Desa": "Desa Sebani",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7345789, -7.6447057]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah bina usaha",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kalirejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7911863, -7.5833969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah dahlia",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kidul Dalem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7852277, -7.6014258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit dahlia",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Beji",
+        "Desa": "Desa Kedungringin",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7539449, -7.5816489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah asora",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Kepulungan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6883969, -7.6156068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BERKAH JAYA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwodadi",
+        "Desa": "Dsn. Putuk Ds Lebakrejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7576691, -7.8227587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit SIDO MAKMUR",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwosari",
+        "Desa": "Ds. Karangrejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.700315, -7.7416252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH GARUDA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pandaan",
+        "Desa": "Desa Sumberejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6943559, -7.6304679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah ertigabasam",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Dermo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7941655, -7.6085208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah berkah sejahtera II",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kidul Dalem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7852277, -7.6014258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit merah putih",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Beji",
+        "Desa": "Desa Sidowayah",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7762899, -7.612036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah sapri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Kepulungan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6883969, -7.6156068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah barokah",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kidul Dalem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7852277, -7.6014258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit LANDBOUW BERKAH",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwodadi",
+        "Desa": "Dsn. Selowinangun Ds Cowek",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7427723, -7.8134481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH BNI CENDONO",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwosari",
+        "Desa": "Ds. CENDONO",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6824377, -7.7629161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit KISS",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Prigen",
+        "Desa": "Kelurahan Pecalukan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6019864, -7.734417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah mawar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Latek",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.800124, -7.6081922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah desa gunung gangsir",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Beji",
+        "Desa": "Desa Gununggangsir",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7301098, -7.5880145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah semar",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Babat",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7070189, -7.6253409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit kelompok perempuan peduli lingkungan bersih",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kauman",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7815036, -7.594676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH NGANGGLIK",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwodadi",
+        "Desa": "Dsn. Ngaglik Ds. Parerejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7241509, -7.8062499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH KIBAR",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwosari",
+        "Desa": "Sengon Agung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7301098, -7.7501029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit PAYAK SEJAHTERA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Prigen",
+        "Desa": "Candiwates",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.66605, -7.6586184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah sejahtera",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Desa Manaruwi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8016136, -7.5891443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit wanjati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pandaan",
+        "Desa": "Desa Karangjati",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.700315, -7.6706579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah gesing",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Randu Pitu",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.706274, -7.6146247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah setia bakti",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Desa Manaruwi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8016136, -7.5891443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit kelompok perempuan peduli lingkungan bersih 02",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kauman",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7815036, -7.594676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH BINAR MENTARI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwosari",
+        "Desa": "Martopuro",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7599036, -7.7687193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BERKAH LUMINTU",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Prigen",
+        "Desa": "Kelurahan Ledug",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6377432, -7.722285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit lingkar pandaan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pandaan",
+        "Desa": "Kelurahan Pandaan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7032945, -7.6426348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "bank sampah unit dusun babat",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Randupitu",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.706274, -7.6146247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah pandelekan jaya",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Desa Raci",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8373635, -7.592231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit kelompok perempuan peduli lingkungan rt 01 rw 01",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kauman",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7815036, -7.594676]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANKSAMPAH KERTO ASRI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwosari",
+        "Desa": "Ds. Kertosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7539449, -7.7893464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH SUDATRA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Prigen",
+        "Desa": "Desa Sukoreno",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6377432, -7.6411786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH JAYA CERIA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwodadi",
+        "Desa": "Ds. Parerejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7241509, -7.8062499]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit rajawali peduli lingkungan",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pandaan",
+        "Desa": "Kelurahan Jogosari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6988252, -7.6568093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah sektot desa ngerong asri",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Ngerong",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.700315, -7.599768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah arbain",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Gempeng",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7941655, -7.5984046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit sumber rejeki",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kersikan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7889518, -7.5955306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit Bank Sampah Desa SENGONAGUNG",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwosari",
+        "Desa": "Ds. Sengon Agung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7301098, -7.7501029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit JOYO MERGO SORO",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Prigen",
+        "Desa": "Desa Sekarjoho",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6466823, -7.6634867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit KAMPUNG LIMO",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pohjentrek",
+        "Desa": "Desa Pleret",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8835384, -7.6769263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit PEDULI LINGKUNGAN",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pandaan",
+        "Desa": "Desa Sumberejo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6943559, -7.6304679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah gelang",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Ngerong",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.700315, -7.599768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah tulip",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Gempeng",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7941655, -7.5984046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit melati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kalianyar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8165095, -7.5706298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit TUNAS MUDA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwodadi",
+        "Desa": "Pucangsari",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.700315, -7.7923634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit LUMANGSIH ASRI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": null,
+        "Desa": "Desa Ketan Ireng",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6705233, -7.6821159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah anksa",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Sumbersuko",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6705194, -7.6317792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BANK SAMPAH MA AS SHOLCHAH",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pohjentrek",
+        "Desa": "Desa Warungdowo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8805594, -7.6872159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit RUKUN SEJAHTERA",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pandaan",
+        "Desa": "Desa Tunggulwulung",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7241509, -7.6592081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah teratai",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Gempeng",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7941655, -7.5984046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit pogar bangkit",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Pogar",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7743111, -7.5964528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit BERKAH LESTARI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Purwodadi",
+        "Desa": "Ds. Purwodadi",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7271303, -7.803544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit WILO ASRI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Prigen",
+        "Desa": "Desa Ketan Ireng",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6705233, -7.6821159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah sejahtera 03",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Gempol",
+        "Desa": "Desa Carat",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6824377, -7.5552112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit UPAS",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Winongan",
+        "Desa": "Winongan Lor",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.962477, -7.7218444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit SIDOMUKTI",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Pandaan",
+        "Desa": "Kelurahan Pandaan",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7032945, -7.6426348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah nanas II",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Dermo",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7941655, -7.6085208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah melati",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Latek",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.800124, -7.6081922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "BSU",
+        "Name": "Bank Sampah Unit bank sampah dadi mulyo",
+        "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+        "Kabupaten": "Pasuruan",
+        "Kecamatan": "Bangil",
+        "Desa": "Kelurahan Kidul Dalem",
+        "Kapasitas": null,
+        "Luas_Total": null,
+        "Luas_Unit": null,
+        "Kapasitas1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7852277, -7.6014258]
+      }
+    },
+{
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Nusantara",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Ponorogo",
+      "Kecamatan": "Jenangan",
+      "Desa": "Tanjungsari",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.563969, -7.827741]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Sri Tanjung",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Ponorogo",
+      "Kecamatan": "Jenangan",
+      "Desa": "Tanjungsari",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.563969, -7.827741]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Pilang Suko II",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Ponorogo",
+      "Kecamatan": "Ponorogo",
+      "Desa": "Ponorogo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.467331, -7.858342]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Manunggal Karso",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Ponorogo",
+      "Kecamatan": "Ponorogo",
+      "Desa": "Paju",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.458987, -7.8829932]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Sri Mukti",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Ponorogo",
+      "Kecamatan": "Ponorogo",
+      "Desa": "Keniten",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.457592, -7.857959]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Melati",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Ponorogo",
+      "Kecamatan": "Babadan",
+      "Desa": "Purwosari",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.496989, -7.799964]
+    }
+  },
+{
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Pakuniran",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Pakuniran",
+      "Desa": "Desa Pakuniran",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.5087744, -7.7251378]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Harapan Kita",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Gading",
+      "Desa": "Desa Duren",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4865392, -7.8788155]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Krejengan",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Krejengan",
+      "Desa": "Krejengan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4092675, -7.7936805]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Sumberlele",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Kraksaan",
+      "Desa": "Desa Sumberlele",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4493324, -7.7533996]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Pasar Semampir",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Kraksaan",
+      "Desa": "Keluharan Semampir",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4088308, -7.7648399]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Barakallah",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Maron",
+      "Desa": "Kedungsari",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.3317443, -7.8322499]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Kedungasri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Kotaanyar",
+      "Desa": "Kedung Rejoso",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.5174553, -7.7493367]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Bago Berseri",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Besuk",
+      "Desa": "Desa Bago",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4949691, -7.8284981]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Jaya Mulya",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Pajarakan",
+      "Desa": "Desa Sukomulyo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.385578, -7.758171]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Semampir",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Kraksaan",
+      "Desa": "Kelurahan Semampir",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4006453, -7.7627428]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Mandiri Sumberkembar",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Pakuniran",
+      "Desa": "Sumber kembar",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.5171208, -7.7973788]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Bermi Indah",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Krucil",
+      "Desa": "Bermi",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.5192793, -7.9755518]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Binor Lestari",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Paiton",
+      "Desa": "Desa Binor",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.5539167, -7.7179808]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Semanggi",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Kraksaan",
+      "Desa": "Desa Bulu",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4183426, -7.7666942]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Sumberrejo",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Kotaanyar",
+      "Desa": "Desa Sumberrejo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.540113, -7.7191207]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Plampang",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Paiton",
+      "Desa": "Desa Plampang",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.5058858, -7.7375009]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Asembagus Bersatu",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Renteng",
+      "Desa": "Gading",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4776098, -7.8717562]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Srikandi",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Renteng",
+      "Desa": "Gading",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4776098, -7.8717562]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Sumberanyar",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Probolinggo",
+      "Kecamatan": "Gading",
+      "Desa": "Renteng",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.4776098, -7.8717562]
+    }
+  },
+{
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit RONG TENGAH",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sampang",
+      "Kecamatan": "Sampang",
+      "Desa": "Rong Tengah",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.2501549, -7.1987612]
+    }
+  },
+{
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Nirwana I",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Candi",
+      "Desa": "Sumorame",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.702454, -7.4939861]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Liberti",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Buduran",
+      "Desa": "Pagerwojo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.7068855, -7.4411093]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Mutiara Hati",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Candi",
+      "Desa": "Sumorame",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.7224911, -7.4752091]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Nirwana II",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Candi",
+      "Desa": "Sumorame",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.702454, -7.4939861]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Sumber Rejeki 2",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Candi",
+      "Desa": "Sumorame",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.702454, -7.4939861]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Sumber Rejeki 1",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Candi",
+      "Desa": "Sumorame",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.702454, -7.4939861]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Tiga Satu Tiga",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Candi",
+      "Desa": "Sumorame",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.7224911, -7.4752091]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Mutiara Ceria",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Candi",
+      "Desa": "Sumorame",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.7224911, -7.4752091]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Sri Rejeki",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Candi",
+      "Desa": "Sumorame",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.7047843, -7.4946004]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Maju Sejahtera",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Candi",
+      "Desa": "Sumorame",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.7069511, -7.4939415]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Makmur Bersama",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Candi",
+      "Desa": "Sumorame",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.7047843, -7.4946004]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Sidoarjo Bersama Kita Makmur",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sidoarjo",
+      "Kecamatan": "Buduran",
+      "Desa": "Siwalanpanji",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.727603, -7.432604]
+    }
+  },
+{
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Taman Kursi Berseri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Sumbermalang",
+      "Desa": "Taman Kursi",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.700213, -7.88511]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Binar",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Asembagus",
+      "Desa": "Desa Gudang",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.222814, -7.728404]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Maju Jaya",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Mlandingan",
+      "Desa": "Desa Trebungan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.799767, -7.7415646]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Taman Karya Bersama",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Sumbermalang",
+      "Desa": "Taman",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.692332, -7.843183]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bersinar",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Asembagus",
+      "Desa": "Desa Asembagus",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.218754, -7.750024]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bukit Jaya",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Panji",
+      "Desa": "Mimbaan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.0144916, -7.7040306]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Perante Jaya Berseri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Perante",
+      "Desa": "Perante",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.216127, -7.769198]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Ayuban Jaya Berseri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Panji",
+      "Desa": "Mimbaan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.0173912, -7.7107123]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Berseri Desa Jetis",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Besuki",
+      "Desa": "Desa Jetis",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.708036, -7.749638]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Pesona Baderan",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Sumbermalang",
+      "Desa": "Desa Baderan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.692006, -7.868443]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Cipta Karya Mandiri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Panji",
+      "Desa": "Mimbaan,",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.012849, -7.703296]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Teratai",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Besuki",
+      "Desa": "Desa Blimbing",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.693731, -7.75902]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Sumberargo Indah",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Sumbermalang",
+      "Desa": "Desa Baderan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.718855, -7.868729]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Tanjung Glugur Apaadanya",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Mangaran",
+      "Desa": "Tj.Glugur Selatan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.043918, -7.651602]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Mojosari Indah",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Asembagus",
+      "Desa": "Desa Mojosari",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.195296, -7.779079]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Sedap Malam",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Besuki",
+      "Desa": "Desa Langkap",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.690821, -7.746205]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Telogo Makmur",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Sumbermalang",
+      "Desa": "Desa Tlogosari",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.704972, -7.849955]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Awar Awar Berseri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Asembagus",
+      "Desa": "Desa Awar-Awar",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.227613, -7.76892]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bersih Sehat",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Mlandingan",
+      "Desa": "Campoan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.8361649, -7.7861978]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Anggrek Mulya",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Panji",
+      "Desa": "Curah Jeru",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.0369075, -7.7076152]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Flamboyan",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Besuki",
+      "Desa": "Desa Kalimas",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.692968, -7.739431]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Dahlia",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Banyuputih",
+      "Desa": "Desa Wonorejo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.402624, -7.925519]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Aneka Sari",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Asembagus",
+      "Desa": "Kertosari",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.1896292, -7.816951]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Kamboja",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "penarukan",
+      "Desa": "peleyan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.979907, -7.688769]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Jaya Pintu Lima",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Panji",
+      "Desa": "Ardirejo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.013348, -7.720541]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Sumberejo Berseri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Besuki",
+      "Desa": "Sumberejo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.710139, -7.776891]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Wijaya Mandiri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Situbondo",
+      "Desa": "Kecamatan Situbondo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.004395, -7.703167]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Second City",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Asembagus",
+      "Desa": "Desa Trigonco",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.201388, -7.750277]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Wringin Anom Bersatu",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "situbondo",
+      "Desa": "Asembagus",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.974098, -7.708686]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Kenanga Mandiri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Panji",
+      "Desa": "Desa Kayuputih",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.02398, -7.660389]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Rengganis",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Sumbermalang",
+      "Desa": "Sumbermalang",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.684136, -7.775829]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Mitra Mandiri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Panarukan",
+      "Desa": "Alasmalang,",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.982623, -7.676337]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Nusa Indah Alas Tengah",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Sumbermalang",
+      "Desa": "Alastengah",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.683705, -7.858612]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Anggrek Jaya",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Situbondo",
+      "Kecamatan": "Situbondo",
+      "Desa": "Patokan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.998441, -7.70431]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit TUNGGAK JATI",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Pamolokan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.869833, -6.997908]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Dahlia",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Pamolokan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.858299, -7.009557]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit MAJU MULYA",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Pajagalan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.8632803, -7.0125378]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Kepanjin",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Pamolokan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.858299, -7.009557]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Mawar Marengan Daya",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Marengan Daya",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.89509, -7.0301652]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Pondok Indah",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Kolor",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.8614481, -7.0197713]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Mandiri",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kalianget",
+      "Desa": "Kalimook",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.9053189, -7.0292333]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANGSELOK",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Bangselok",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.8564271, -7.0097367]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit PANDIAN BERSIH",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Pandian",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.8510873, -7.0047924]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit PEDULI ASABRI",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Pabian",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.8727462, -7.0210158]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Melati",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Kebonagung",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.845215, -7.006426]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Pelangi",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Pamolokan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.858299, -7.009557]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Cempaka",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Pabian",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.8713865, -7.0206891]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit ANGGREK",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Desa Pangarangan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.8688841, -7.0031998]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit PRATAMA KARANGDUAK",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Sumenep",
+      "Kecamatan": "Kota Sumenep",
+      "Desa": "Karang Duak",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.8578169, -7.0016668]
+    }
+  },
+{
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH MASA DEPAN",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Durenan",
+      "Desa": "Kamulan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8181055, -8.0968405]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH DEWI SHINTA",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Karanganyar",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.728159, -8.1263249]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH KARTINI",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Karanganyar",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7301652, -8.1235429]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH LANCAR JAYA",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Karanganyar",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7301652, -8.1235429]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH JAYA ABADI",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Karangan",
+      "Desa": "Karangan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.6608593, -8.0783355]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH KENDEDES",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Karanganyar",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7301652, -8.1235429]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH ASTAGINA",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Karanganyar",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7301652, -8.1235429]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH LOBSTER",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Durenan",
+      "Desa": "Kamulan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8181055, -8.0968405]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH AR-ROHMAH",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Sukorejo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.692902, -8.129468]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Kampung KB Berseri",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Tugu",
+      "Desa": "Winong",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.6496767, -8.0305539]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH BAROKHAH",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Pogalan",
+      "Desa": "Ngulankulon",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7450704, -8.0611753]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH MANDIRI SEJAHTERA",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Karangan",
+      "Desa": "Krajan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.6649527, -8.0596439]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH MAKMUR BERSAMA",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Tugu",
+      "Desa": "Tegaren",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.6454418, -8.0251274]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH PERJALANAN",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Durenan",
+      "Desa": "Kamulan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8181055, -8.0968405]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH MELATI 02",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Durenan",
+      "Desa": "Kamulan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8181055, -8.0968405]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH LANCAR JAYA 02",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Durenan",
+      "Desa": "Kamulan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8181055, -8.0968405]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH TUNA JAYA",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Durenan",
+      "Desa": "Kamulan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8181055, -8.0968405]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH SRIKANDI",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Jedung",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7313213, -8.11801]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit DIARY DONASI SAMPAH",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Karangan",
+      "Desa": "Rejosari",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.670523, -8.0682846]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH SUMBERAGUNG",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Trenggalek",
+      "Desa": "Sumbergedong",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7167504, -8.0563346]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Sri Lestari",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Depok",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7319, -8.1208583]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH PANGUPO JIWO",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Tugu",
+      "Desa": "Nglongsor",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8205519, -8.0976872]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Pemuda",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Durenan",
+      "Desa": "Kamulan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8181055, -8.0968405]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH MELATI",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Krajan Wetan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7236532, -8.119765]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Mitra Gumrining",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Tugu",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.689533, -8.129605]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH PERTIWI SATU",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Karanganyar",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7289399, -8.1169103]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit Bank Sampah Nglancor",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Gandusari",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7018452, -8.1264039]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH UJI COBA",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Durenan",
+      "Desa": "Kamulan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8181055, -8.0968405]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "Bank Sampah Unit BANK SAMPAH PERTIWI DUA",
+      "Description": "Bank Sampah Unit dikelola oleh Pemda",
+      "Kabupaten": "Trenggalek",
+      "Kecamatan": "Gandusari",
+      "Desa": "Jedung",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.7283947, -8.1201903]
+    }
+  },
+{
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS BHAKTI LESTARI",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Kalidawir",
+      "Desa": "Pakisaji",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9325391, -8.0854052]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS BAROKAH",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Tulungagung",
+      "Desa": "Jepun",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS BERKAH (BERSERI)",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Boyolangu",
+      "Desa": "Moyoketen",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS MAJU MAKMUR",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Tulungagung",
+      "Desa": "Kampungdalem",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9049217, -8.0747771]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS BERKAH KAMARDIKAN",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Kedungwaru",
+      "Desa": "Winong",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS MANDIRI SOBONTORO",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Boyolangu",
+      "Desa": "Sobontoro",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.901289, -8.0881885]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS LESTARI",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Kedungwaru",
+      "Desa": "Simo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS MEKAR JAYA",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Karangrejo",
+      "Desa": "Karangrejo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9108124, -8.0016239]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS BERMAMA",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Tulungagung",
+      "Desa": "Botoran",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.890693, -8.0568898]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS BENING",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Campurdarat",
+      "Desa": "Sawo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.0761598, -8.1695211]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS JAYA ABADI LINGKUNGA",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Gondang",
+      "Desa": "Jarakan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.85222, -8.060227]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS GUMREGAH",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Boyolangu",
+      "Desa": "Boyolangu",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS KAMAJAYA",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Sendang",
+      "Desa": "Picisan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [112.014706, -8.1267479]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS DEWI SRI",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Gondang",
+      "Desa": "Rejosari",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9023184, -8.0415571]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS LUMINTU",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Tulungagung",
+      "Desa": "Sembung",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8910879, -8.0516662]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS KEJUJURAN",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Tulungagung",
+      "Desa": "Botoran",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8911056, -8.0565576]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS BERKAH",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Tulungagung",
+      "Desa": "Kepatihan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9118788, -8.0626639]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS ABADI PLAST",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Pakel",
+      "Desa": "Ngrance",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS SUMBER REJEKI",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Tulungagung",
+      "Desa": "Tertek",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS AL HAKIM",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Ngunut",
+      "Desa": "Selorejo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS FATAYAT NGRENDENG",
+      "Description": "Bank Sampah Unit dikelola oleh LSM",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Gondang",
+      "Desa": "Ngrendeng",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9004569, -8.1217657]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS MAKMUR BANGSA",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Tulungagung",
+      "Desa": "Kedungsoko",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS RUKUN MULYA",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Tulungagung",
+      "Desa": "Kepatihan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9121045, -8.0642519]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS RANDU ALAS",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Besuki",
+      "Desa": "Keboireng",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.755504, -8.2517848]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS SUKOREJO",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Karangrejo",
+      "Desa": "Sukorejo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.901289, -8.0881885]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS AMANAH",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Gondang",
+      "Desa": "Tiudan",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS MANFAAT",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Kauman",
+      "Desa": "Bolorejo",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.8608411, -8.0522771]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "Type": "BSU",
+      "Name": "BS CAKRAWALA NUSANTARA",
+      "Description": "Bank Sampah Unit dikelola oleh Masyarakat",
+      "Kabupaten": "Tulungagung",
+      "Kecamatan": "Kalidawir",
+      "Desa": "Tanjung",
+      "Kapasitas": null,
+      "Luas_Total": null,
+      "Luas_Unit": null,
+      "Kapasitas1": null
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [111.9641728, -8.091221]
+    }
+  }
+
+    ]
+};
+
+    
 // Fungsi untuk memformat popup kabupaten
 function formatPopup(properties) {
     return `
@@ -9156,10 +33289,10 @@ function formatPopup(properties) {
             <p><b>Timbulan Sampah:</b><br>${properties.Timbulan_S.replace(/\n/g, '<br>')}</p>
             <p><b>Sampah Terkelola:</b><br>${properties.Sampah_Kel.replace(/\n/g, '<br>').replace(/(\d+)\.(\d{4})\(([\d,.]+%)\)/g, '($2) $3')}</p>
             <p><b>Fasilitas Sampah(SIPSN 2021-2024):</b><br>${properties.Fasilitas_.replace(/\n/g, '<br>')}</p>
-            <p><b>Komposisi Sampah(SIPSN 2023):</b><br>${properties.Komposisi_.replace(/\n/g, '<br>')}</p>
-            <p><b>Sumber Sampah(SIPSN 2023):</b><br>${properties.Sumber_Sam.replace(/\n/g, '<br>')}</p>
+            <p><b>Komposisi Sampah:</b><br>${properties.Komposisi_.replace(/\n/g, '<br>')}</p>
+            <p><b>Sumber Sampah:</b><br>${properties.Sumber_Sam.replace(/\n/g, '<br>')}</p>
             <p><b>Indeks Kualitas LH:</b><br>${properties.IKLH.replace(/\n/g, '<br>')}</p>
-            <p><b>Limbah B3(2023):</b><br>${properties.B3.replace(/\n/g, '<br>')}</p>
+            <p><b>Limbah B3:</b><br>${properties.B3.replace(/\n/g, '<br>')}</p>
         </div>
     `;
 }
@@ -9185,8 +33318,8 @@ function formatFacilityPopup(properties) {
             <b>Luas Unit Pengelolaan Sampah:</b> ${properties.Luas_Unit !== null ? properties.Luas_Unit + ' ha' : 'Unknown'}<br>
             <b>Kapasitas Sampah Masuk (m3/hari):</b> ${properties.Kapasitas1 !== null ? properties.Kapasitas1 : 'Unknown'}<br>
         `;
-    } else if (properties.Type === 'TPS3R') {
-        // Untuk TPS3R, hanya tampilkan kapasitas jika tersedia
+    } else if (properties.Type === 'TPS3R' || properties.Type === 'BSU') {
+        // Untuk TPS3R dan BSU, hanya tampilkan kapasitas jika tersedia
         if (properties.Kapasitas !== null) {
             popupContent += `
                 <b>Kapasitas (m3/hari):</b> ${properties.Kapasitas}<br>
@@ -9234,6 +33367,12 @@ var facilityIcons = {
         iconSize: [16, 16],
         iconAnchor: [8, 8]
     }),
+    BSU: L.divIcon({
+        className: 'facility-icon',
+        html: '<div style="background-color:rgb(237, 92, 194); width: 12px; height: 12px; border-radius: 50%; border: 2px solid #FFFFFF;"></div>',
+        iconSize: [16, 16],
+        iconAnchor: [8, 8]
+    })
 };
 
 // Inisialisasi layer untuk setiap jenis fasilitas
@@ -9273,6 +33412,17 @@ var tps3rLayer = L.geoJSON(wasteFacilitiesData, {
     }
 }).addTo(map);
 
+var bsuLayer = L.geoJSON(wasteFacilitiesData, {
+    filter: function (feature) {
+        return feature.properties.Type === 'BSU';
+    },
+    pointToLayer: function (feature, latlng) {
+        return L.marker(latlng, { icon: facilityIcons.BSU });
+    },
+    onEachFeature: function (feature, layer) {
+        layer.bindPopup(formatFacilityPopup(feature.properties));
+    }
+}).addTo(map);
 
 
 // Inisialisasi layer GeoJSON
@@ -9317,6 +33467,10 @@ var LayerControl = L.Control.extend({
                 <input type="checkbox" id="tps3rLayer" class="mr-2" checked>
                 <label for="tps3rLayer" class="text-sm">TPS3R</label>
             </div>
+            <div class="flex items-center">
+                <input type="checkbox" id="bsuLayer" class="mr-2" checked>
+                <label for="bsuLayer" class="text-sm">BSU</label>
+            </div>
         `;
         // Mencegah event peta (drag/zoom) saat berinteraksi dengan kontrol
         L.DomEvent.disableClickPropagation(container);
@@ -9347,6 +33501,13 @@ var LayerControl = L.Control.extend({
                 tps3rLayer.addTo(map);
             } else {
                 map.removeLayer(tps3rLayer);
+            }
+        });
+        container.querySelector('#bsuLayer').addEventListener('change', function (e) {
+            if (e.target.checked) {
+                bsuLayer.addTo(map);
+            } else {
+                map.removeLayer(bsuLayer);
             }
         });
         return container;
@@ -9427,7 +33588,7 @@ var FacilityLZegendControl = L.Control.extend({
             { type: 'TPA', color: '#FF0000', label: 'Tempat Pembuangan Akhir' },
             { type: 'BSI', color: '#00FF00', label: 'Bank Sampah Induk' },
             { type: 'TPS3R', color: '#0000FF', label: 'TPS3R' },
-            
+            { type: 'BSU', color: '#FFFF00', label: 'Bank Sampah Unit' }
         ];
         facilityTypes.forEach(function (facility) {
             legendHTML += `
@@ -9504,6 +33665,9 @@ document.getElementById('searchInput').addEventListener('input', function (e) {
     tps3rLayer.eachLayer(function (layer) {
         map.removeLayer(layer);
     });
+    bsuLayer.eachLayer(function (layer) {
+        map.removeLayer(layer);
+    });
 
     // Cari di geojsonLayer (administrasi kabupaten)
 geojsonLayer.eachLayer(function (layer) {
@@ -9526,9 +33690,9 @@ geojsonLayer.eachLayer(function (layer) {
     }
 });
 
-// Cari di fasilitas sampah (TPA, BSI, TPS3R)
-var facilityLayers = [tpaLayer, bsiLayer, tps3rLayer];
-var facilityLayerIds = ['tpaLayer', 'bsiLayer', 'tps3rLayer'];
+// Cari di fasilitas sampah (TPA, BSI, TPS3R, BSU)
+var facilityLayers = [tpaLayer, bsiLayer, tps3rLayer, bsuLayer];
+var facilityLayerIds = ['tpaLayer', 'bsiLayer', 'tps3rLayer', 'bsuLayer'];
 
 facilityLayers.forEach(function (facilityLayer, index) {
     facilityLayer.eachLayer(function (layer) {
@@ -9562,10 +33726,12 @@ facilityLayers.forEach(function (facilityLayer, index) {
         tpaLayer.addTo(map);
         bsiLayer.addTo(map);
         tps3rLayer.addTo(map);
+        bsuLayer.addTo(map);
         document.getElementById('jawaTimurLayer').checked = true;
         document.getElementById('tpaLayer').checked = true;
         document.getElementById('bsiLayer').checked = true;
         document.getElementById('tps3rLayer').checked = true;
+        document.getElementById('bsuLayer').checked = true;
         map.fitBounds(bounds);
     }
 });
