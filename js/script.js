@@ -3626,7 +3626,7 @@ var wasteFacilitiesData = {
             },
             "properties": {
                 "Type": "TPA",
-                "Name": "TPA Tlekung",
+                "Name": "TPA Tlekung-Sanksi Administratif",
                 "Description": "Open Dumping",
                 "Kabupaten": "Kota Batu",
                 "Kecamatan": "Junrejo",
