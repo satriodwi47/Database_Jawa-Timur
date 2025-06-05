@@ -1,31 +1,38 @@
-// Inisialisasi peta
+//setmap
 var map = L.map('map');
-
-// Koordinat barat daya dan timur laut Pulau Jawa
-var bounds = L.latLngBounds(
-  [-9.2, 105.0], // barat daya (SW)
-  [-5.5, 115.0]  // timur laut (NE)
-);
-
+var bounds = L.latLngBounds([-9.2, 105.0], [-5.5, 115.0]);
 map.fitBounds(bounds);
-// Menangani resize window untuk responsivitas
-    window.addEventListener('resize', function () {
-        map.invalidateSize(); // Menyesuaikan ukuran peta saat window di-resize
-    });
 
-    // Toggle layer control untuk mobile
-    var layerControl = document.querySelector('.leaflet-control.custom-control');
-    document.getElementById('toggleLayerControl').addEventListener('click', function () {
-        layerControl.classList.toggle('active');
-    });
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
 
-// Fungsi untuk menghasilkan warna berdasarkan nama kabupaten
+var CustomControl = L.Control.extend({
+    options: {
+        position: 'topleft'
+    },
+    onAdd: function (map) {
+        var container = L.DomUtil.create('div', 'leaflet-custom-control flex items-center gap-2 p-2 bg-white rounded shadow z-[1000]');
+        var searchBar = L.DomUtil.create('input', 'border p-2 rounded w-full text-base focus:outline-none focus:border-blue-500', container);
+        searchBar.type = 'text';
+        searchBar.id = 'searchInput';
+        searchBar.placeholder = 'Cari Kabupaten...';
+        searchBar.setAttribute('aria-label', 'Cari kabupaten atau fasilitas sampah di peta');
+        L.DomEvent.disableClickPropagation(container);
+        return container;
+    }
+});
+map.addControl(new CustomControl());
+
+window.addEventListener('resize', function () {
+    map.invalidateSize();
+});
+
 function getColor(kabupaten) {
-    // Daftar warna untuk kabupaten
     const colors = {
-        "Bangkalan": "#FE5D26", // Merah
-        "Banyuwangi": "#533B4D", // Hijau
-        "Blitar": "#5409DA",//biru muda
+        "Bangkalan": "#FE5D26",
+        "Banyuwangi": "#533B4D",
+        "Blitar": "#5409DA",
         "Bojonegoro": "#7F55B1",
         "Bondowoso": "#3A0519",
         "Gresik": "#626F47",
@@ -58,11 +65,11 @@ function getColor(kabupaten) {
         "Sidoarjo": "#10375C",
         "Situbondo": "#B8001F",
         "Sumenep": "#3C3D37",
-        "Trenggalek": "#F624E88",
+        "Trenggalek": "#F624E8",
         "Tuban": "#16423C",
         "Tulungagung": "#185519"
     };
-    return colors[kabupaten] || "#3388ff"; // Warna default jika kabupaten tidak ditemukan
+    return colors[kabupaten] || "#3388ff";
 }
 // Tambahkan tile layer dari OpenStreetMap
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -3626,7 +3633,7 @@ var wasteFacilitiesData = {
             },
             "properties": {
                 "Type": "TPA",
-                "Name": "TPA Tlekung-Sanksi Administratif",
+                "Name": "TPA Tlekung",
                 "Description": "Open Dumping",
                 "Kabupaten": "Kota Batu",
                 "Kecamatan": "Junrejo",
@@ -9139,8 +9146,7 @@ var wasteFacilitiesData = {
     ]
 };
 
-    
-// Fungsi untuk memformat popup kabupaten
+ //Popup informasi   
 function formatPopup(properties) {
     return `
         <div class="popup-content max-h-96 overflow-y-auto" style="width: 320px;">
@@ -9168,9 +9174,7 @@ function formatPopup(properties) {
     `;
 }
 
-// Fungsi untuk memformat popup fasilitas sampah berdasarkan tipe
 function formatFacilityPopup(properties) {
-    // Base popup content
     let popupContent = `
         <div class="popup-content max-h-96 overflow-y-auto" style="width: 200px;">
             <h3 class="font-bold text-lg">${properties.Name}</h3>
@@ -9180,8 +9184,6 @@ function formatFacilityPopup(properties) {
             <b>Kecamatan:</b> ${properties.Kecamatan}<br>
             <b>Desa:</b> ${properties.Desa}<br>
     `;
-
-    // Tambahkan informasi tambahan berdasarkan tipe fasilitas
     if (properties.Type === 'TPA' || properties.Type === 'BSI') {
         popupContent += `
             <b>Kapasitas (m3/hari):</b> ${properties.Kapasitas !== null ? properties.Kapasitas : 'Unknown'}<br>
@@ -9189,8 +9191,7 @@ function formatFacilityPopup(properties) {
             <b>Luas Unit Pengelolaan Sampah:</b> ${properties.Luas_Unit !== null ? properties.Luas_Unit + ' ha' : 'Unknown'}<br>
             <b>Kapasitas Sampah Masuk (m3/hari):</b> ${properties.Kapasitas1 !== null ? properties.Kapasitas1 : 'Unknown'}<br>
         `;
-    } else if (properties.Type === 'TPS3R' || properties.Type === 'BSU') {
-        // Untuk TPS3R dan BSU, hanya tampilkan kapasitas jika tersedia
+    } else if (properties.Type === 'TPS3R') {
         if (properties.Kapasitas !== null) {
             popupContent += `
                 <b>Kapasitas (m3/hari):</b> ${properties.Kapasitas}<br>
@@ -9212,13 +9213,10 @@ function formatFacilityPopup(properties) {
             `;
         }
     }
-
-    // Tutup div
     popupContent += `</div>`;
     return popupContent;
 }
 
-// Ikon khusus untuk setiap jenis fasilitas
 var facilityIcons = {
     TPA: L.divIcon({
         className: 'facility-icon',
@@ -9237,16 +9235,9 @@ var facilityIcons = {
         html: '<div style="background-color: #0000FF; width: 12px; height: 12px; border-radius: 50%; border: 2px solid #FFFFFF;"></div>',
         iconSize: [16, 16],
         iconAnchor: [8, 8]
-    }),
-    BSU: L.divIcon({
-        className: 'facility-icon',
-        html: '<div style="background-color:rgb(237, 92, 194); width: 12px; height: 12px; border-radius: 50%; border: 2px solid #FFFFFF;"></div>',
-        iconSize: [16, 16],
-        iconAnchor: [8, 8]
     })
 };
 
-// Inisialisasi layer untuk setiap jenis fasilitas
 var tpaLayer = L.geoJSON(wasteFacilitiesData, {
     filter: function (feature) {
         return feature.properties.Type === 'TPA';
@@ -9283,26 +9274,12 @@ var tps3rLayer = L.geoJSON(wasteFacilitiesData, {
     }
 }).addTo(map);
 
-var bsuLayer = L.geoJSON(wasteFacilitiesData, {
-    filter: function (feature) {
-        return feature.properties.Type === 'BSU';
-    },
-    pointToLayer: function (feature, latlng) {
-        return L.marker(latlng, { icon: facilityIcons.BSU });
-    },
-    onEachFeature: function (feature, layer) {
-        layer.bindPopup(formatFacilityPopup(feature.properties));
-    }
-}).addTo(map);
-
-
-// Inisialisasi layer GeoJSON
 var geojsonLayer = L.geoJSON(geojsonData, {
     style: function (feature) {
         return {
-            color: getColor(feature.properties.Kabupaten), // Warna garis
+            color: getColor(feature.properties.Kabupaten),
             weight: 2,
-            fillColor: getColor(feature.properties.Kabupaten), // Warna isi
+            fillColor: getColor(feature.properties.Kabupaten),
             fillOpacity: 0.9
         };
     },
@@ -9314,13 +9291,12 @@ var geojsonLayer = L.geoJSON(geojsonData, {
     }
 }).addTo(map);
 
-// Kontrol Layer Kustom
 var LayerControl = L.Control.extend({
     options: {
         position: 'topright'
     },
     onAdd: function (map) {
-        var container = L.DomUtil.create('div', 'bg-white p-2 rounded shadow');
+        var container = L.DomUtil.create('div', 'leaflet-control custom-control bg-white p-2 rounded shadow');
         container.innerHTML = `
             <div class="flex items-center">
                 <input type="checkbox" id="jawaTimurLayer" class="mr-2" checked>
@@ -9339,9 +9315,7 @@ var LayerControl = L.Control.extend({
                 <label for="tps3rLayer" class="text-sm">TPS3R</label>
             </div>
         `;
-        // Mencegah event peta (drag/zoom) saat berinteraksi dengan kontrol
         L.DomEvent.disableClickPropagation(container);
-        // Event listener untuk checkbox
         container.querySelector('#jawaTimurLayer').addEventListener('change', function (e) {
             if (e.target.checked) {
                 geojsonLayer.addTo(map);
@@ -9373,21 +9347,19 @@ var LayerControl = L.Control.extend({
         return container;
     }
 });
-// Kontrol Legenda Kustom kabupaten
+
 var LegendControl = L.Control.extend({
     options: {
-        position: 'bottomleft' // Konsisten dengan posisi kiri bawah
+        position: 'bottomleft'
     },
     onAdd: function (map) {
-        var container = L.DomUtil.create('div', 'legend-control bg-white p-1 rounded shadow'); // Padding dikurangi ke 2 (8px)
+        var container = L.DomUtil.create('div', 'legend-control bg-white p-2 rounded shadow');
         container.innerHTML = `
-            <h3 class="font-bold text-[10px]">Legenda</h3>
-            <div id="legendContent" class="grid grid-cols-2 gap-1"></div> <!-- Gap dikurangi -->
+            <h3 class="font-bold text-[0.75rem]">Legenda Administrasi</h3>
+            <div id="legendContent" class="grid grid-cols-2 gap-1"></div>
         `;
-        // Mencegah event peta (drag/zoom) saat berinteraksi dengan kontrol
         L.DomEvent.disableClickPropagation(container);
 
-        // Isi konten legenda
         var legendHTML = '';
         const colors = {
             "Bangkalan": "#FE5D26",
@@ -9430,39 +9402,6 @@ var LegendControl = L.Control.extend({
             "Tulungagung": "#185519"
         };
 
-        // Kontrol Legenda Kustom untuk Fasilitas Sampah
-var FacilityLZegendControl = L.Control.extend({
-    options: {
-        position: 'bottomleft'
-    },
-    onAdd: function (map) {
-        var container = L.DomUtil.create('div', 'legend-control bg-white p-2 rounded shadow mt-2');
-        container.innerHTML = `
-            <h3 class="font-bold text-[10px]">Legenda Fasilitas Sampah</h3>
-            <div id="facilityLegendContent" class="grid grid-cols-1 gap-1"></div>
-        `;
-        L.DomEvent.disableClickPropagation(container);
-        var legendHTML = '';
-        const facilityTypes = [
-            { type: 'TPA', color: '#FF0000', label: 'Tempat Pembuangan Akhir' },
-            { type: 'BSI', color: '#00FF00', label: 'Bank Sampah Induk' },
-            { type: 'TPS3R', color: '#0000FF', label: 'TPS3R' },
-            { type: 'BSU', color: '#FFFF00', label: 'Bank Sampah Unit' }
-        ];
-        facilityTypes.forEach(function (facility) {
-            legendHTML += `
-                <div class="flex items-center mb-1">
-                    <div class="w-3 h-3 mr-1" style="background-color: ${facility.color}; border-radius: 50%;"></div>
-                    <span class="text-[10px]">${facility.label}</span>
-                </div>
-            `;
-        });
-        container.querySelector('#facilityLegendContent').innerHTML = legendHTML;
-        return container;
-    }
-});
-
-        // Identifikasi kabupaten dari geojsonLayer
         var geojsonKabupaten = [];
         geojsonLayer.eachLayer(function (layer) {
             var kabupaten = layer.feature.properties.Kabupaten;
@@ -9471,47 +9410,40 @@ var FacilityLZegendControl = L.Control.extend({
             }
         });
 
-        console.log("Kabupaten dari geojsonLayer:", geojsonKabupaten);
-        console.log("Kabupaten di legenda (colors):", Object.keys(colors));
-
-        // Identifikasi kabupaten yang tidak ada di colors
         var missingKabupaten = geojsonKabupaten.filter(function (kab) {
             return !colors.hasOwnProperty(kab);
         });
 
-        console.log("Kabupaten yang hilang di legenda:", missingKabupaten);
-
-        // Tambahkan kabupaten yang hilang ke colors dengan warna spesifik
         missingKabupaten.forEach(function (kab) {
-            colors[kab] = '#' + Math.floor(Math.random()*16777215).toString(16); // Warna acak
+            colors[kab] = '#' + Math.floor(Math.random() * 16777215).toString(16);
         });
 
-        // Render semua kabupaten di legenda
         for (var kabupaten in colors) {
             legendHTML += `
                 <div class="flex items-center mb-1">
-                    <div class="w-3 h-3 mr-1" style="background-color: ${colors[kabupaten]};"></div> <!-- Kotak lebih kecil -->
-                    <span class="text-[10px]">${kabupaten}</span> <!-- Font 10px -->
+                    <div class="w-4 h-4 mr-1" style="background-color: ${colors[kabupaten]};"></div>
+                    <span class="text-[0.625rem]">${kabupaten}</span>
                 </div>
             `;
         }
 
         container.querySelector('#legendContent').innerHTML = legendHTML;
-        console.log("Legenda HTML:", legendHTML);
         return container;
     }
 });
 
-// Tambahkan kontrol layer dan legenda ke peta
 new LayerControl().addTo(map);
 new LegendControl().addTo(map);
 
-// Fungsi pencarian untuk administrasi dan fasilitas sampah
+document.getElementById('toggleLayerControl').addEventListener('click', function () {
+    var layerControl = document.querySelector('.leaflet-control.custom-control');
+    layerControl.classList.toggle('active');
+});
+
 document.getElementById('searchInput').addEventListener('input', function (e) {
     var searchText = e.target.value.toLowerCase().trim();
     var found = false;
 
-    // Reset semua layer ke kondisi awal (sembunyikan)
     geojsonLayer.eachLayer(function (layer) {
         map.removeLayer(layer);
     });
@@ -9524,73 +9456,54 @@ document.getElementById('searchInput').addEventListener('input', function (e) {
     tps3rLayer.eachLayer(function (layer) {
         map.removeLayer(layer);
     });
-    bsuLayer.eachLayer(function (layer) {
-        map.removeLayer(layer);
-    });
 
-    // Cari di geojsonLayer (administrasi kabupaten)
-geojsonLayer.eachLayer(function (layer) {
-    var kabupaten = layer.feature.properties.Kabupaten.toLowerCase();
-    var searchTextLower = searchText.toLowerCase();
-    
-    // Cek apakah pencarian mengandung "kota"
-    var isSearchForKota = searchTextLower.includes('kota');
-    var isKabupatenKota = kabupaten.includes('kota');
-    
-    // Tampilkan layer jika:
-    // 1. kabupaten cocok dengan searchText, dan
-    // 2. (pencarian tidak untuk "kota" dan kabupaten bukan "kota") atau (pencarian untuk "kota" dan kabupaten adalah "kota")
-    if (kabupaten.includes(searchTextLower) && 
-        ((isSearchForKota && isKabupatenKota) || (!isSearchForKota && !isKabupatenKota))) {
-        layer.addTo(map);
-        map.fitBounds(layer.getBounds());
-        document.getElementById('jawaTimurLayer').checked = true;
-        found = true;
-    }
-});
-
-// Cari di fasilitas sampah (TPA, BSI, TPS3R, BSU)
-var facilityLayers = [tpaLayer, bsiLayer, tps3rLayer, bsuLayer];
-var facilityLayerIds = ['tpaLayer', 'bsiLayer', 'tps3rLayer', 'bsuLayer'];
-
-facilityLayers.forEach(function (facilityLayer, index) {
-    facilityLayer.eachLayer(function (layer) {
-        var props = layer.feature.properties;
-        var name = (props.Name || '').toLowerCase();
-        var type = (props.Type || '').toLowerCase();
-        var kabupaten = (props.Kabupaten || '').toLowerCase();
+    geojsonLayer.eachLayer(function (layer) {
+        var kabupaten = layer.feature.properties.Kabupaten.toLowerCase();
         var searchTextLower = searchText.toLowerCase();
-        
-        // Cek apakah pencarian mengandung "kota"
         var isSearchForKota = searchTextLower.includes('kota');
         var isKabupatenKota = kabupaten.includes('kota');
-        
-        // Tampilkan layer jika:
-        // 1. name atau type cocok dengan searchText, atau
-        // 2. kabupaten cocok dengan searchText dan memenuhi kondisi "kota"
-        if (name.includes(searchTextLower) || type.includes(searchTextLower) ||
-            (kabupaten.includes(searchTextLower) && 
-             ((isSearchForKota && isKabupatenKota) || (!isSearchForKota && !isKabupatenKota)))) {
+        if (kabupaten.includes(searchTextLower) &&
+            ((isSearchForKota && isKabupatenKota) || (!isSearchForKota && !isKabupatenKota))) {
             layer.addTo(map);
-            var coords = layer.getLatLng();
-            map.setView(coords, 12); // Zoom ke lokasi fasilitas
-            document.getElementById(facilityLayerIds[index]).checked = true;
+            map.fitBounds(layer.getBounds());
+            document.getElementById('jawaTimurLayer').checked = true;
             found = true;
         }
     });
-});
-    // Jika tidak ada hasil, kembalikan peta ke tampilan awal
+
+    var facilityLayers = [tpaLayer, bsiLayer, tps3rLayer];
+    var facilityLayerIds = ['tpaLayer', 'bsiLayer', 'tps3rLayer'];
+
+    facilityLayers.forEach(function (facilityLayer, index) {
+        facilityLayer.eachLayer(function (layer) {
+            var props = layer.feature.properties;
+            var name = (props.Name || '').toLowerCase();
+            var type = (props.Type || '').toLowerCase();
+            var kabupaten = (props.Kabupaten || '').toLowerCase();
+            var searchTextLower = searchText.toLowerCase();
+            var isSearchForKota = searchTextLower.includes('kota');
+            var isKabupatenKota = kabupaten.includes('kota');
+            if (name.includes(searchTextLower) || type.includes(searchTextLower) ||
+                (kabupaten.includes(searchTextLower) &&
+                    ((isSearchForKota && isKabupatenKota) || (!isSearchForKota && !isKabupatenKota)))) {
+                layer.addTo(map);
+                var coords = layer.getLatLng();
+                map.setView(coords, 12);
+                document.getElementById(facilityLayerIds[index]).checked = true;
+                found = true;
+            }
+        });
+    });
+
     if (!found && searchText === '') {
         geojsonLayer.addTo(map);
         tpaLayer.addTo(map);
         bsiLayer.addTo(map);
         tps3rLayer.addTo(map);
-        bsuLayer.addTo(map);
         document.getElementById('jawaTimurLayer').checked = true;
         document.getElementById('tpaLayer').checked = true;
         document.getElementById('bsiLayer').checked = true;
         document.getElementById('tps3rLayer').checked = true;
-        document.getElementById('bsuLayer').checked = true;
         map.fitBounds(bounds);
     }
 });
