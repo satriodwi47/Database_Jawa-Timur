@@ -9201,7 +9201,7 @@ function formatPopup(properties) {
             <p><b>Laboratorium Lingkungan:</b> ${properties.Lab_Ling}</p>
             <p><b>Perizinan Lingkungan:</b><br>${properties.Perling.replace(/\n/g, '<br>')}</p>
             <p><b>Program Iklim:</b><br>${properties.Proklim.replace(/\n/g, '<br>')}</p>
-             <p><b>Status Roadmap Penglolaan Sampah:</b> ${properties.Roadmap}</p>
+             <p><b>Roadmap Pengelolaan Sampah:</b> ${properties.Roadmap}</p>
             <p><b>Timbulan Sampah:</b><br>${properties.Timbulan_S.replace(/\n/g, '<br>')}</p>
             <p><b>Sampah Terkelola:</b><br>${properties.Sampah_Kel.replace(/\n/g, '<br>').replace(/(\d+)\.(\d{4})\(([\d,.]+%)\)/g, '($2) $3')}</p>
             <p><b>Fasilitas Sampah(SIPSN 2021-2024):</b><br>${properties.Fasilitas_.replace(/\n/g, '<br>')}</p>
